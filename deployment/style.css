@@ -19,6 +19,22 @@
     color: #1b4d28;
 }
 
+
+/* Minden label vagy szöveg, ami .stTextInput vagy .stSelectbox előtt van */
+label {
+    color: #2ecc71 !important; /* élénk zöld 💚 */
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Alternatíva: az összes form-label stílusolása */
+div[data-baseweb="form-control"] > label {
+    color: #2ecc71 !important; /* ugyanaz a zöld */
+    font-size: 16px;
+}
+
+
+
 header {
             background-color: #a5efa2;
             color: white;
