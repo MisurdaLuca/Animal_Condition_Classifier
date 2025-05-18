@@ -182,6 +182,8 @@ st.markdown("""
     }
     .stButton > button:hover {
         background-color: #1e5a2b;
+        color: limegreen;
+        font-weight: bold;
     }
     </style>
 """, unsafe_allow_html=True)
