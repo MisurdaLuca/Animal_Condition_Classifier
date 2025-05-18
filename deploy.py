@@ -110,6 +110,15 @@ st.markdown("""
 </header>
 """, unsafe_allow_html=True)
 
+st.markdown("""
+    <style>
+        label {
+            color: #ff3399 !important;
+            font-size: 18px;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 
 st.subheader("Animal Information")
 animal_group = st.selectbox("Animal Group", ["Select...", "Mammal", "Bird", "Reptile"])
