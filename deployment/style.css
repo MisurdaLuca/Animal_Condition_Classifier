@@ -30,7 +30,8 @@ label {
 /* Alternatíva: az összes form-label stílusolása */
 div[data-baseweb="form-control"] > label {
     color: #2ecc71 !important; /* ugyanaz a zöld */
-    font-size: 16px;
+    font-size: 25px !important;
+    font-weight: bold;
 }
 
 
