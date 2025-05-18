@@ -124,7 +124,7 @@ st.image("deployment/banner animal.png", use_container_width=True)
 st.markdown("""
 <header>
     <h1 style="text-align: center; color: ##1a6116;">VetAlert</h1>
-    <h3 style="text-align: center; color: #1f6c1c;">Your AI-Powered Animal Condition Classification Tool</h3>
+    <h3 style="text-align: center; color: ##1f6e1b;">Your AI-Powered Animal Condition Classification Tool</h3>
 </header>
 """, unsafe_allow_html=True)
 
