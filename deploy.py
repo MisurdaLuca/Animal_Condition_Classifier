@@ -154,7 +154,7 @@ if animal_group == "Mammal":
         animal_breed = st.selectbox("Breed", ["Select...", "Cattle", "Sheep", "Goat", "Buffalo", "Deer", "Pig"])
     elif animal_order == "Odd-toed ungulates":
         animal_breed = st.selectbox("Breed", ["Select...", "Horse", "Donkey", "Mule"])    
-    elif animal_order == "Roddent":
+    elif animal_order == "Rodent":
         animal_breed = st.selectbox("Breed", ["Select...", "Rabbit", "Hamster"])
     elif animal_order == "Other":
         animal_breed = "Unknown"
