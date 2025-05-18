@@ -101,6 +101,25 @@ def process_symptoms_to_cluster_ids(symptoms, word_map):
         st.error(f"Error processing symptoms: {str(e)}")
         return None
 
+def check_symptoms_match(symptoms, word_map, threshold=0.75):
+    invalid_indices = []
+    word_map.columns = word_map.columns.str.strip()
+
+    for i, symptom in enumerate(symptoms):
+        symptom = symptom.strip()
+        max_similarity = 0
+        for _, row in word_map.iterrows():
+            for col in ['original', 'corrected', 'canonical']:
+                if pd.isna(row[col]):
+                    continue
+                sim = similar(symptom, str(row[col]))
+                if sim > max_similarity:
+                    max_similarity = sim
+        if max_similarity < threshold:
+            invalid_indices.append(i+1)  # 1-based index a felhasználónak
+    return invalid_indices
+
+
 # ----- UI Components -----
 st.image("deployment/banner animal.png", use_container_width=True)
 st.markdown("""
@@ -140,8 +159,8 @@ if animal_group == "Mammal":
     elif animal_order == "Roddent":
         animal_breed = st.selectbox("Breed", ["Select...", "Rabbit", "Hamster"])
     elif animal_order == "Other":
-        animal_breed = "Unknown" 
-
+        animal_breed = "Unknown"
+ 
 elif animal_group == "Bird":
     animal_order = st.selectbox("Bird Type", ["Select...", "Fowl", "Other birds"])
     if animal_order == "Fowl":
@@ -158,7 +177,6 @@ elif animal_group == "Reptile":
 st.subheader("Symptoms")
 symptoms = [st.text_input(f"Symptom {i+1}", placeholder="Enter symptom here") for i in range(5)]
 
-# Diagnose Button
 if st.button("Diagnose"):
 
     if animal_group == "Select..." or animal_order == "Select..." or animal_breed == "Select...":
@@ -166,37 +184,41 @@ if st.button("Diagnose"):
     elif any(s.strip() == '' for s in symptoms):
         st.error("Please fill in all symptom fields.")
     else:
-        # Encode animal info
-        enc_animal = get_label_from_df(animal_enc, str(animal_order))
-        enc_group = get_label_from_df(animal_group_enc, str(animal_group))
-        enc_species = get_label_from_df(species_enc, str(animal_breed))
+        # Ellenőrzés, hogy minden symptom legalább 75%-ban passzol-e
+        invalid_symptoms = check_symptoms_match(symptoms, word_map)
 
-        if None in [enc_animal, enc_group, enc_species]:
-            st.error("Unable to encode animal information. Please verify the input data.")
+        if invalid_symptoms:
+            st.warning(f"Kérlek, javítsd a következő symptom(ok) helyességét: {', '.join(map(str, invalid_symptoms))}.")
         else:
-            cluster_ids = process_symptoms_to_cluster_ids(symptoms, word_map)
+            # Ha minden ok, mehet a kód többi része (animal encoding, symptom cluster ids, predikció)
+            enc_animal = get_label_from_df(animal_enc, str(animal_order))
+            enc_group = get_label_from_df(animal_group_enc, str(animal_group))
+            enc_species = get_label_from_df(species_enc, str(animal_breed))
 
-            if cluster_ids is None:
-                st.error("Symptom processing failed.")
+            if None in [enc_animal, enc_group, enc_species]:
+                st.error("Unable to encode animal information. Please verify the input data.")
             else:
-                if -1 in cluster_ids:
-                    st.warning("Some symptoms could not be matched to known clusters.")
-                
-                model_input = [enc_animal, enc_group, enc_species] + cluster_ids
-                try:
-                    proba_linear = linear_model.predict_proba([model_input])[0]
-                    proba_rbf = rbf_model.predict_proba([model_input])[0]
+                cluster_ids = process_symptoms_to_cluster_ids(symptoms, word_map)
 
-                    avg_proba = (proba_linear + proba_rbf) / 2
-                    prediction = np.argmax(avg_proba)
-                    confidence = avg_proba[prediction] * 100
+                if cluster_ids is None:
+                    st.error("Symptom processing failed.")
+                else:
+                    model_input = [enc_animal, enc_group, enc_species] + cluster_ids
+                    try:
+                        proba_linear = linear_model.predict_proba([model_input])[0]
+                        proba_rbf = rbf_model.predict_proba([model_input])[0]
 
-                    if prediction == 1:
-                        st.error(f"🛑 Diagnosis: Dangerous condition detected. Confidence: {confidence:.2f}%")
-                    elif prediction == 0:
-                        st.success(f"✅ Diagnosis: Non-dangerous condition. Confidence: {confidence:.2f}%")
-                    else:
-                        st.info(f"ℹ️ Diagnosis: Insecure condition. Confidence: {confidence:.2f}%")
+                        avg_proba = (proba_linear + proba_rbf) / 2
+                        prediction = np.argmax(avg_proba)
+                        confidence = avg_proba[prediction] * 100
 
-                except Exception as e:
-                    st.error(f"Prediction failed: {str(e)}")
+                        if prediction == 1:
+                            st.error(f"🛑 Diagnosis: Dangerous condition detected. Confidence: {confidence:.2f}%")
+                        elif prediction == 0:
+                            st.success(f"✅ Diagnosis: Non-dangerous condition. Confidence: {confidence:.2f}%")
+                        else:
+                            st.info(f"ℹ️ Diagnosis: Insecure condition. Confidence: {confidence:.2f}%")
+
+                    except Exception as e:
+                        st.error(f"Prediction failed: {str(e)}")
+
