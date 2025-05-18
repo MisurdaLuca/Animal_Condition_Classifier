@@ -231,11 +231,31 @@ if st.button("Diagnose"):
                         confidence = avg_proba[prediction] * 100
 
                         if prediction == 1:
-                            st.error(f"Diagnosis:\nDangerous condition\nConfidence: {confidence:.2f}%")
+                            st.error(f"⚠️☠️🚨Dangerous condition      Confidence: {confidence:.2f}%")
+                            if confidence > 90:
+                                st.warning("⚠️🚨💉Immediate veterinary attention is recommended!")
+                            if confidence > 80:
+                                st.warning("⚠️🚨💉High confidence in dangerous condition. Please consult a vet.")
+                            if confidence > 70:
+                                st.warning("⚠️🚨💉Moderate confidence in dangerous condition. Please consult a vet.")
+                            if confidence > 60:
+                                st.warning("⚠️🚨💉Low confidence in dangerous condition. Please consult a vet.")
+                            else:
+                                st.warning("⚠️🚨💉Very low confidence in dangerous condition. Please consult a vet.")
                         elif prediction == 0:
-                            st.success(f"Diagnosis:\nNon-dangerous condition\nConfidence: {confidence:.2f}%")
+                            st.success(f"🩺👩🏻‍⚕️✅Non-dangerous condition        Confidence: {confidence:.2f}%")
+                            if confidence > 90:
+                                st.success("🩺👩🏻‍⚕️✅High confidence in non-dangerous condition.")
+                            elif confidence > 80:
+                                st.success("🩺👩🏻‍⚕️✅Moderate confidence in non-dangerous condition.")
+                            elif confidence > 70:
+                                st.success("🩺👩🏻‍⚕️✅Low confidence in non-dangerous condition.")
+                            elif confidence > 40:
+                                st.success("🩺👩🏻‍⚕️✅Very low confidence in non-dangerous condition.")
+                            else:
+                                st.success("🩺👩🏻‍⚕️✅Extremely low confidence in non-dangerous condition.")
                         else:
-                            st.info(f"Diagnosis:\nInsecure condition.\nConfidence: {confidence:.2f}%")
+                            st.info(f"😵‍💫Insecure condition        Confidence: {confidence:.2f}%")
                     except Exception as e:
                         st.error(f"Prediction failed: {str(e)}")
 
