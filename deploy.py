@@ -15,7 +15,7 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-local_css("deployment\style.css")  # vagy "styles/style.css" ha almappában van
+local_css("deployment/style.css")  # vagy "styles/style.css" ha almappában van
 
 def apply_inline_styles():
     css = """
