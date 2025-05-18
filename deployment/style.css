@@ -1,0 +1,128 @@
+/* Main app background and text */
+.stApp {  
+    background-color: #f4fff4;  /* világos zöld háttér */
+    color: #002b00;  
+    padding: 10px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Zöld szekciók */
+.section-green {
+    background-color: #e0f5e4;
+    border: 2px solid #4CAF50;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.section-green h2, .section-green h3, .section-green p {
+    color: #1b4d28;
+}
+
+header {
+            background-color: #a5efa2;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+
+
+.header-banner {
+    background-color: #d6f5d6;
+    border: 2px solid #4CAF50;
+    border-radius: 12px;
+    padding: 3px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+.header-banner h1 {
+    margin: 0;
+    font-size: 48px;
+    color: #1b4d28;
+}
+
+.section-green h1 {
+    margin-top: 0px !important;
+    margin-bottom: 10px; /* vagy kevesebb, pl. 0-5 */
+    padding: 0 !important;
+}
+
+
+/* Chat input */
+.stApp .stChatInput {  
+    background-color: #ecfcec;
+    border: 1px solid #4caf50;
+    border-radius: 6px;
+    font-size: 16px;  
+    color: #003300; 
+    box-shadow: 0 2px 4px rgba(0, 128, 0, 0.1); 
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; 
+}
+.stApp .stChatInput:hover {
+    box-shadow: 0 4px 8px rgba(0, 128, 0, 0.2); 
+    border-color: #2e8b57;
+}
+
+/* Három pötty */
+.st-emotion-cache-w3nhqi.ef3psqc5 {
+    color: #2e8b57 !important;  
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {  
+    background-color: #ffffff;
+    color: #003300;
+}
+[data-testid="stSidebarNav"] {
+    background-image: url(https://static.thenounproject.com/png/749986-200.png);
+    background-repeat: no-repeat;
+    background-position: 20px 10px;
+    background-size: 80px;
+    padding-top: 100px;
+}
+[data-testid="stSidebarNav"]::before {
+    content: "🌿 Diagnosis Tool";
+    font-size: 18px;
+    color: #2e8b57;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: -70px;
+    margin-bottom: 10px;
+}
+
+/* Title */
+h1 {
+    color: #2e8b57;
+    text-align: center;
+    font-size: 48px;
+    font-family: Georgia, serif;
+    margin-bottom: 1px;
+}
+
+/* Buttons */
+.stButton button {
+    background-color: #4caf50;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-size: 16px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+.stButton button:hover {
+    background-color: #388e3c;
+    color: #eaffea;
+}
+
+/* Success üzenet */
+.success-message {
+    background-color: #e0fce0;
+    border-left: 6px solid #4caf50;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    text-align: center;
+    color: #004d00;
+}

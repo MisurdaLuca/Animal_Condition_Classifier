@@ -1,0 +1,13 @@
+animal,label
+canid,0
+cat-like,1
+elephant,2
+even-toed ungulates,3
+fowl,4
+monkey,5
+odd-toed ungulates,6
+other birds,7
+rodent,8
+snake,9
+turtle,10
+unknown,11
