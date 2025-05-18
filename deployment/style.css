@@ -24,7 +24,7 @@
 label {
     color: #2ecc71 !important; /* élénk zöld 💚 */
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px !important; 
 }
 
 /* Alternatíva: az összes form-label stílusolása */
