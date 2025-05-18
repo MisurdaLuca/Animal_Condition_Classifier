@@ -234,11 +234,11 @@ if st.button("Diagnose"):
                             st.error(f"⚠️☠️🚨Dangerous condition      Confidence: {confidence:.2f}%")
                             if confidence > 90:
                                 st.warning("⚠️🚨💉Immediate veterinary attention is recommended!")
-                            if confidence > 80:
+                            elif confidence > 80:
                                 st.warning("⚠️🚨💉High confidence in dangerous condition. Please consult a vet.")
-                            if confidence > 70:
+                            elif confidence > 70:
                                 st.warning("⚠️🚨💉Moderate confidence in dangerous condition. Please consult a vet.")
-                            if confidence > 60:
+                            elif confidence > 60:
                                 st.warning("⚠️🚨💉Low confidence in dangerous condition. Please consult a vet.")
                             else:
                                 st.warning("⚠️🚨💉Very low confidence in dangerous condition. Please consult a vet.")
