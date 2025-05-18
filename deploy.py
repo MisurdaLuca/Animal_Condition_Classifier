@@ -175,7 +175,7 @@ st.markdown("""
     <style>
     .stButton > button {
         background-color: #16e042;
-        color: balck;
+        color: black;
         font-weight: bold;
         border-radius: 10px;
         padding: 0.5em 1em;
