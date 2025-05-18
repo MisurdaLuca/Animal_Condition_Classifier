@@ -231,12 +231,11 @@ if st.button("Diagnose"):
                         confidence = avg_proba[prediction] * 100
 
                         if prediction == 1:
-                            st.error(f"🛑 Diagnosis: Dangerous condition detected. Confidence: {confidence:.2f}%")
+                            st.error(f"Diagnosis:\nDangerous condition\nConfidence: {confidence:.2f}%")
                         elif prediction == 0:
-                            st.success(f"✅ Diagnosis: Non-dangerous condition. Confidence: {confidence:.2f}%")
+                            st.success(f"Diagnosis:\nNon-dangerous condition\nConfidence: {confidence:.2f}%")
                         else:
-                            st.info(f"ℹ️ Diagnosis: Insecure condition. Confidence: {confidence:.2f}%")
-
+                            st.info(f"Diagnosis:\nInsecure condition.\nConfidence: {confidence:.2f}%")
                     except Exception as e:
                         st.error(f"Prediction failed: {str(e)}")
 
