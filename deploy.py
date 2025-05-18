@@ -173,21 +173,15 @@ elif animal_group == "Reptile":
 
 st.markdown("""
     <style>
-    /* Success box */
-    div[data-testid="stSuccess"] {
-        background-color: #28a745 !important;  /* zöld háttér */
-        color: balck !important;                /* fehér szöveg */
-        font-weight: bold !important;
-        padding: 10px !important;
-        border-radius: 5px !important;
+    .stButton > button {
+        background-color: #256f35;
+        color: white;
+        font-weight: bold;
+        border-radius: 10px;
+        padding: 0.5em 1em;
     }
-    /* Error box */
-    div[data-testid="stError"] {
-        background-color: #dc3545 !important;  /* piros háttér */
-        color: balck !important;
-        font-weight: bold !important;
-        padding: 10px !important;
-        border-radius: 5px !important;
+    .stButton > button:hover {
+        background-color: #1e5a2b;
     }
     </style>
 """, unsafe_allow_html=True)
