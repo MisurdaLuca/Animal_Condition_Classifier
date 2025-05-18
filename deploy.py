@@ -208,7 +208,8 @@ if st.button("Diagnose"):
         invalid_symptoms = check_symptoms_match(symptoms, word_map)
 
         if invalid_symptoms:
-            st.warning(f"Kérlek, javítsd a következő symptom(ok) helyességét: {', '.join(map(str, invalid_symptoms))}.")
+            for i in invalid_symptoms:
+                st.error(f"Symptom {i} is not recognized. Please check the spelling or try a different term.")
         else:
             # Ha minden ok, mehet a kód többi része (animal encoding, symptom cluster ids, predikció)
             enc_animal = get_label_from_df(animal_enc, str(animal_order))
