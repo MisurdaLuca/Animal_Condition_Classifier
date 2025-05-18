@@ -174,14 +174,14 @@ elif animal_group == "Reptile":
 st.markdown("""
     <style>
     .stButton > button {
-        background-color: #256f35;
+        background-color: #1e5a2b;
         color: white;
         font-weight: bold;
         border-radius: 10px;
         padding: 0.5em 1em;
     }
     .stButton > button:hover {
-        background-color: #1e5a2b;
+        background-color: #256f35;
         color: limegreen;
         font-weight: bold;
     }
