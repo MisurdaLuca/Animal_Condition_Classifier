@@ -183,9 +183,9 @@ st.markdown("""
     }
     .stButton > button:hover {
         background-color: #18291e;
-        color: #00ff5b;
+        color: ##68fc9d;
         font-weight: bold;
-        border: 3px solid #00ff5b;
+        border: 3px solid #68fc9d;
     }
     </style>
 """, unsafe_allow_html=True)
