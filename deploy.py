@@ -171,6 +171,22 @@ elif animal_group == "Reptile":
     animal_order = st.selectbox("Reptile Type", ["Select...", "Turtle", "Snake"])
     animal_breed = "Unknown"
 
+st.markdown("""
+    <style>
+    .stButton > button {
+        background-color: #18291e;
+        color: black;
+        font-weight: bold;
+        border-radius: 10px;
+        padding: 0.5em 1em;
+    }
+    .stButton > button:hover {
+        background-color: #18291e;
+        color: black;
+        font-weight: bold;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 
 # Symptoms Input
