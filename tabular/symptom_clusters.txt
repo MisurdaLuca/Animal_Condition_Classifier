@@ -1,0 +1,864 @@
+abdminal pain -> pain
+abdominal destention -> pot belly
+abdominal discomfort -> pain
+abdominal pain -> pain
+abdonormal discomfort -> pain
+abdonormal pain -> pain
+abnormal behaviour -> asymptomatic
+abnormal conformation -> asymptomatic
+abnormalalities -> asymptomatic
+abnormalities -> asymptomatic
+abnormally long leg -> limp
+abortion -> abortion
+abortion at the end of gestation -> abortion
+abortion on late pregancy -> abortion
+abscessess -> pot belly
+achomotrica -> edema
+acting aggressive -> flank
+acting unnaturally tame -> asymptomatic
+agalactia -> edema
+aggressiveness -> flank
+air sacculitis -> gasping
+allergic reaction -> fever
+anaemia -> anemia
+aneamia -> edema
+anemia -> anemia
+animal become lame -> lame
+animal gets uneasy -> self-isolation
+animal stop feed -> reduce feed
+anorexia -> anemia
+anoxeria -> edema
+anversion to light -> hyperesthesia
+apathy -> sick
+appetite -> appetite
+appetite varies -> appetite
+arthritis -> arthritis
+asymptomatic -> asymptomatic
+ataxia -> ataxia
+attack -> flank
+attacks -> flank
+attempt to urinate -> urination
+aversion to light -> hyperesthesia
+back pain -> pain
+bad breath -> bad breath
+bad smell -> smell
+balance problem -> kick
+bald patches -> hair loss
+barren ewes -> poor wool
+beak overgrowth -> misshapen beak
+behaviour change -> asymptomatic
+berberi -> smell
+bite other animals -> itches
+black on ear -> folded ears
+black stool -> black stool
+bleeding from other parts of the body -> blood clots
+bleeding from the nose -> nasal
+bleeding from wounds -> bleeding wounds
+bleeding in eye and skin -> pink eye
+bleeding wounds -> bleeding wounds
+blindness -> pink eye
+blister -> blister
+blood clots -> blood clots
+blood from mouth -> blood clots
+blood in faces -> blood clots
+blood in stool -> black stool
+blood in urine -> polyuria
+blood on faces -> blood clots
+blood poisioning -> blood clots
+blood stool -> black stool
+bloody -> bloody
+bloody diarhhea -> diarrhea
+bloody diarrhea -> diarrhea
+bloody discharge -> discharge
+bloody drool -> bloody
+bloody droping -> bloody
+bloody in feather -> feather loss
+bloody urine -> polyuria
+blooody fluid -> gas
+blue colored lip -> lip
+blue eye -> dull
+blue straws -> blue straws
+bluish white opacity -> red eye
+blurry vision -> pink eye
+body stiffness -> stiff
+bony lesion -> lesion
+bottle jaw -> bottle jaw
+broken bones -> shock
+broody behavior -> asymptomatic
+bubbles in the mouth -> gagging
+bumps(black,grey or red) -> lumps
+burning ache or pain -> pain
+carcass decomposes -> pot belly
+cell damage -> shock
+cessation of eructation -> deability
+change in gait -> changed gait
+change in milk -> lacrimation
+change their normal behaviour -> asymptomatic
+changed gait -> changed gait
+changes in outer layer skin -> skin issue
+chest pain -> pain
+chewing -> gums
+chills -> raw
+chirping -> gagging
+chronic eye inflamation -> pink eye
+circling -> swaying
+clearly unthrifty -> lllthrift
+cloacal pasting -> gagging
+closed eyes -> pink eye
+clouded cornea -> watery eye
+clubbed feather -> feather loss
+colic -> colic
+confusion -> death
+congestion -> head tilt
+conjuctivtis -> fever
+conjunctive -> deability
+consistency of milk -> lacrimation
+constant pacing -> weak pulse
+constipation -> black stool
+continuous loss of weight -> overweight
+convulsion -> nervous
+cornea become cloudy -> watery eye
+corneal ulceration -> watery eye
+cough -> sick
+coughing -> sick
+cramps -> pain
+crusting of the skin -> skin issue
+crusty -> dirty
+crusty eye lashes and matting of eyelashes -> dull
+dandruff -> dirty
+dandruff in cat coat -> dirty
+dark colored bloody -> polyuria
+dark or black face -> darkened skin
+darkened skin -> darkened skin
+deability -> deability
+death -> death
+death of lamb -> death
+decrease appetite -> appetite
+decrease in milk production -> lacrimation
+decreased appetite -> appetite
+decreased eyelid -> pink eye
+decreased growth of bone -> enlarged skulls
+decreased milk -> lacrimation
+decreased stool production -> black stool
+decresed egg production -> egg production stops
+defienciency in vitamin -> oxygen defiency
+dehydration -> thirst
+dejection -> tensemus
+depression -> sick
+despression -> kick
+diarrhea -> diarrhea
+diarrhea with muscus -> diarrhea
+diarrhoea -> diarrhea
+diffculty breathing -> dyspnea
+difficult in respiration -> dyspnea
+difficult in walking -> changed gait
+difficultty in breathing -> dyspnea
+difficulty breathing -> dyspnea
+difficulty breating -> changed gait
+difficulty diagnosis -> reduce feed
+difficulty in breathing -> dyspnea
+difficulty in feeding -> reduce feed
+difficulty in rising -> kick
+difficulty in swallowing -> larynx
+difficulty in walk -> changed gait
+difficulty in walking -> changed gait
+difficulty moving and eating -> reduce feed
+difficulty swallowing -> larynx
+difficulty walking -> changed gait
+diffulty chewing -> larynx
+diffulty swallowing -> larynx
+diffuse -> firm
+dilation of duodenum -> bleeding wounds
+diphtherictic -> watery eye
+dirty -> dirty
+discharge -> discharge
+discharge from ear -> discharge
+discharge from eye -> eye discharges
+discharge from eyes -> eye discharges
+discomfort -> pain
+disharge from affected eye -> pink eye
+distended chest -> larynx
+distended stomach -> pot belly
+distinctive bumps -> lumps
+distress -> shock
+dizzines -> bloody
+dizziness -> headache
+dizziness and fainting -> headache
+dribbling of saliva -> gagging
+drinking polluted water -> thirst
+drooling -> bloody
+droopiness -> bloody
+drooping ears -> folded ears
+drooping wings -> bloody
+droopy wings -> bloody
+drop in milk production -> lacrimation
+drop on egg production -> egg production stops
+dry air -> firm
+dry hair coat -> dirty
+dry or dull hair -> hair loss
+dry or tacky gums -> gums
+dry scabs -> scabs
+dry skin -> firm
+dull -> dull
+dull ness -> dull
+dullness -> dull
+dysentery -> diarrhea
+dyspnea -> dyspnea
+ear infection -> folded ears
+easily damage shell -> shock
+edema -> edema
+edema in lower jaw -> facial edema
+edematous -> edema
+effort to breath -> bad breath
+egg production decreases -> egg production stops
+egg production stops -> egg production stops
+emaciation -> tensemus
+endomeritis -> enteritis
+enlarged lymph nodes -> enlarged skulls
+enlarged lymph nodes or swelling -> swollen
+enlarged skulls -> enlarged skulls
+enlarged thymus -> enlarged skulls
+enlargement of bones -> enlarged skulls
+enteritis -> enteritis
+epistaxis -> edema
+erythema -> lesion
+eventually death -> death
+excess salivary -> gagging
+excess salivation -> gagging
+excess sleeping -> fatigue
+excession salivation -> gagging
+excessive blood loss -> anemia
+excessive drooling -> bloody
+excessive eye watering -> dull
+excessive food intake -> appetite
+excessive grooming -> hair loss
+excessive production -> poor growth
+excitability -> tensemus
+exercise in tolerance -> overweight
+exessive urination -> urination
+exhaustion -> fatigue
+experiencing changes in weight -> overweight
+extending its neck -> twisted neck
+extension of neck -> twisted neck
+extreme thirst -> thirst
+eye and skin change -> darkened skin
+eye become dull -> dull
+eye closed -> pink eye
+eye discharges -> eye discharges
+eye disharge -> pink eye
+eye movements -> pink eye
+eye redness -> red eye
+eye ulcer -> pink eye
+eyeproblem -> pink eye
+facial defects -> lesion
+facial edema -> facial edema
+facial muscle twitching -> paralysis
+facial paralysis -> paralysis
+facial swelling -> facial edema
+facial swelling, -> facial edema
+faeces are streake with blood -> pot belly
+fast breathing -> dyspnea
+fatigue -> fatigue
+fatique -> flaky
+fatty stool -> black stool
+feather loss -> feather loss
+feather plucking -> feather loss
+feels stiff -> stiff
+feline infections -> fever
+fell unwell -> sick
+fetopelvic dispropotion -> lesion
+fever -> fever
+firm -> firm
+flabby -> flaky
+flaking of the scutes -> scabs
+flaky -> flaky
+flank -> flank
+flat ribs -> flat ribs
+flatulence -> gas
+fleece become thin -> poor wool
+flock moratality -> self-isolation
+floopy muscle -> flaky
+fluffed feather -> feather loss
+fluffed feathers -> feather loss
+fluif faeces on blood and muscle -> diarrhea
+fluif filled blisters -> blister
+folded ears -> folded ears
+foot hot -> raw
+formation of vesicles -> scabs
+forthy eye -> pink eye
+foul breath -> gasping
+foul smelling -> smell
+foul smelling stools -> black stool
+frequent eye infections -> eye discharges
+frequent yawning -> fatigue
+gagging -> gagging
+gas -> gas
+gas or bloating -> gas
+gasc -> gas
+gasping -> gasping
+gasping for air -> gasping
+gasping for breath -> gasping
+gastritis -> pnemonia
+general malaise -> sick
+good appetite -> appetite
+green dropping -> red eye
+greenish diarrhea -> diarrhea
+greenish-yellow nasal discharge -> discharge
+grinding of teeth -> bottle jaw
+grinding teeth -> bottle jaw
+groosly enlarged -> enlarged skulls
+grunting -> gagging
+gums -> gums
+gurgling sound -> nervous
+haemorrhage -> shock
+hair loss -> hair loss
+hair tining -> hair loss
+hairy fleeces -> poor wool
+half-closed eye -> pink eye
+halitosis -> gagging
+hardness -> shock
+head ache -> headache
+head pressing -> head tilt
+head shking -> head tilt
+head tilt -> head tilt
+head tossing -> head tilt
+headache -> headache
+heat -> raw
+heavy breathing -> dyspnea
+heavy infection -> enteritis
+hematuria -> polyuria
+hemoglobinuria -> anemia
+hemolytic anemia -> anemia
+hemopytsis -> anemia
+hepatic failure -> hepatitis
+hepatitis -> hepatitis
+high body temperature -> high temperature
+high body temperaure -> high temperature
+high moratality -> bottle jaw
+high temperature -> high temperature
+hind quarted soil -> lound breathing
+hoarseness -> larynx
+hock joint -> arthritis
+holding limbs off the ground -> limp
+horny growth -> poor growth
+hot joints -> arthritis
+hot udder -> raw
+hydrophobia -> thirst
+hyper sensitivity -> hyperesthesia
+hyperaestesia -> edema
+hyperesthesia -> hyperesthesia
+hyperexcitability -> hyperesthesia
+immediate death -> death
+inability of swalllon feeding -> reduce feed
+inability to absorb nutrients -> reduce feed
+inability to digest -> pot belly
+inability to fly -> lack of flying
+inability to jump -> lack of flying
+inability to rise -> lack of flying
+inability to stand -> weakness
+inappentence -> deability
+inappetence -> deability
+incoordination -> deability
+increased in breathing -> dyspnea
+increased passing gas -> gas
+indigestion -> pot belly
+infected navels -> pot belly
+infection -> fever
+infection of the skin -> fever
+inflamed nostrils -> nasal
+inflammation -> enteritis
+inflammation of eye -> pink eye
+inflammed eye -> pink eye
+intellectual disability -> sick
+iris prolapse -> pink eye
+irritation -> itches
+isolation from flock -> self-isolation
+itches -> itches
+itchiness -> itches
+itching -> itches
+jaundice -> anemia
+jaw is dropped -> bottle jaw
+jerky limb movements -> restlessness
+join pains -> pain
+joint pain -> arthritis
+kick -> kick
+kicking -> kick
+kicking at the belly -> limp
+kid moratality -> bottle jaw
+kidney failure -> hepatitis
+labored breathing -> dyspnea
+lack of appetite -> appetite
+lack of coordination -> lack of flying
+lack of flying -> lack of flying
+lack of pigmentation -> darkened skin
+lack of vocalizations -> lack of flying
+lack of walking -> changed gait
+lacrimation -> lacrimation
+lame -> lame
+lameness -> lame
+lameness in affected leg -> limp
+larynx -> larynx
+lathargy -> lathargy
+legness -> limp
+lepatomegaly -> edema
+lesion -> lesion
+lesions -> lesion
+lesions in the nasal cavity -> nasal
+lesions on ear -> folded ears
+lesions on nose -> nasal
+less eat -> appetite
+less feather growth -> feather loss
+lession on cat skin -> skin issue
+lession on the skin -> skin issue
+lethargy -> sick
+lightheadedness -> head tilt
+limp -> limp
+limping -> limp
+lip -> lip
+liquid dropping -> bloody
+listless -> blister
+listlessness -> blister
+liver disease -> hepatitis
+lllthrift -> lllthrift
+los of the ability to walk -> radip onset
+loss in weight -> overweight
+loss od appetite -> loss od appetite
+loss of activity -> overweight
+loss of alertness -> nervous
+loss of appetite -> appetite
+loss of appettite -> overweight
+loss of consciousness -> nervous
+loss of earing -> folded ears
+loss of eat -> appetite
+loss of eye -> pink eye
+loss of milk production -> lacrimation
+loss of pigment -> darkened skin
+loss of powder down -> overweight
+loss of tail tone -> hair loss
+loss of vitamin e -> overweight
+loss of wariness -> overweight
+loss of wool -> poor wool
+lossened teeth -> bottle jaw
+lound breathing -> lound breathing
+lumps -> lumps
+lying down -> flat ribs
+lying on the side -> flat ribs
+lymphosarcoma -> lesion
+malaise -> sick
+malpresentation -> edema
+mammary glads -> gums
+mild colic -> colic
+mild sneezing -> sick
+mild weakness -> weakness
+milk getting out more thick -> lacrimation
+milk getting out more watery -> lacrimation
+milk reduce -> lacrimation
+milky hard -> firm
+misshapen beak -> misshapen beak
+moist -> firm
+moist and painfull -> firm
+morbidity -> shock
+mortality -> death
+mortality varies -> death
+most often none -> flank
+mouth lesion -> lesion
+mucous discharge -> discharge
+mucus discharge from the eye -> eye discharges
+mummification -> gagging
+muscle aches -> pain
+muscle loss -> overweight
+muscle pain -> pain
+muscle stiffness -> stiff
+muscle trembling -> kick
+muscle twiching -> limp
+muscle weakness -> weakness
+muscles ache -> pain
+muscles problem -> limp
+muscular spasms -> paralysis
+muscular stiffness -> stiff
+muscus -> limp
+nasal -> nasal
+nasal bleeding -> nasal
+nasal discharge -> discharge
+nause -> sick
+nausea -> sick
+neck paralysis -> paralysis
+neck vein swelling -> facial edema
+nervous -> nervous
+nervous issue -> nervous
+nervousness -> nervous
+nesting behaviour -> self-isolation
+neurologic abnormalities -> signs in ewe
+neurologic sign -> signs in ewe
+nible at their wool -> poor wool
+no appp -> blister
+noisy breathing -> dyspnea
+normal appetite -> appetite
+nose bleeds -> nasal
+nose picking -> nasal
+nosebleed -> nasal
+nosebleeds -> nasal
+nostrils -> nasal
+not eating -> appetite
+nuerological -> edema
+obscure lameness -> lame
+obstructed lungs -> gasping
+occular discharge -> eye discharges
+ocular discharge -> eye discharges
+odor to ear -> smell
+oedema -> edema
+oral lesion -> lesion
+outstretched neck -> twisted neck
+overweight -> overweight
+oxygen defiency -> oxygen defiency
+pain -> pain
+pain and bloating -> pain
+pain on face -> pain
+pain on leg -> pain
+painfull -> pain
+painfull swalling -> pain
+painfull to touch -> pain
+pains -> pain
+pains to walk -> changed gait
+pale comb -> hair loss
+pale gums -> gums
+panting -> sweat
+papules appear on teats anad udder -> lumps
+paralysis -> paralysis
+paralyzed leg -> paralysis
+paresis -> edema
+partial paralysis -> paralysis
+passing of undigested food -> pot belly
+pawing at bedding -> itches
+pawing at the face or nose -> itches
+periodic vommiting -> tensemus
+pharyngitis -> fever
+pink eye -> pink eye
+pnemonia -> pnemonia
+pneumonia -> enteritis
+polydipsa -> edema
+polyuria -> polyuria
+poor appetite -> appetite
+poor body condition -> weakness
+poor coat apperence -> dirty
+poor coat condition -> dirty
+poor condition -> poor growth
+poor conformation -> poor growth
+poor growth -> poor growth
+poor immune function -> enteritis
+poor wool -> poor wool
+pot belly -> pot belly
+pox lesion -> lesion
+pox lession on skin -> skin issue
+preening -> abortion
+production of mucus -> discharge
+profuse -> sweat
+progressive weakness -> weakness
+prostrat -> lathargy
+pruritis -> pnemonia
+puffed_up feather -> feather loss
+pulmonary congestion -> dyspnea
+purplish combs -> gums
+pustulses -> spines
+pyrexia -> ataxia
+radip onset -> radip onset
+raised growth or bump -> lumps
+rapid breathing -> dyspnea
+rapid heart rate -> weak pulse
+rapid heartbeats -> weak pulse
+rapid pulse and heart rates -> weak pulse
+raw -> raw
+rectal bleeding -> bleeding wounds
+recumbency -> tensemus
+red and inflammation ear -> folded ears
+red diarrhea -> diarrhea
+red eye -> red eye
+red lesion from bald patches -> hair loss
+red on affected area -> red eye
+red patches -> red eye
+red skin -> red eye
+red tinge -> red eye
+red-colored -> red eye
+redness -> red eye
+redness of eye -> red eye
+redness of white of the eye -> red eye
+redness on ear -> folded ears
+reduce energy -> overweight
+reduce feed -> reduce feed
+reduce growth -> poor growth
+reduce lamp marking -> dull
+reduce milk -> lacrimation
+reduce reproductive potential -> egg production stops
+reduced appetite -> appetite
+regurgitation of food -> larynx
+reluctant move -> swaying
+relunctance to move -> radip onset
+relunctance to walk -> radip onset
+respiratory distress -> gasping
+respiratory infection -> gasping
+respiratory noise -> gasping
+restless movement -> restlessness
+restlessness -> restlessness
+retained placenda -> lllthrift
+retarded growth -> poor growth
+retching -> spines
+rhinitis -> pnemonia
+rhinorrhea -> nasal
+ring shaped lesion -> lesion
+rough coat -> dirty
+rough hair coat -> dirty
+roughened -> dirty
+round patches -> flank
+rub -> raw
+rubbing eye -> dull
+ruffled appearance -> swaying
+ruffled coat -> dirty
+ruffled feathers -> feather loss
+rump -> gums
+runny nose -> nasal
+salivating -> gagging
+salivation -> gagging
+scabbing -> scabs
+scabs -> scabs
+scabs on feet -> scabs
+scabs on lip -> lip
+scaly patches of skin -> skin issue
+scaly skin -> lathargy
+scartch -> spines
+scartches -> spines
+scartching -> spines
+scartching ear -> folded ears
+scratches -> dirty
+scratching -> itches
+secondary infection -> fever
+seizuers -> spines
+seizures -> nervous
+self mutilation -> shock
+self-isolation -> self-isolation
+semen examination -> polyuria
+sensitive to touch -> hyperesthesia
+sensitivity to bright light -> hyperesthesia
+septic arthritis -> enteritis
+septicemia -> edema
+severe -> colic
+severe colic -> colic
+severe headache -> headache
+severe inflammation -> enteritis
+severe kerititis -> enteritis
+severe swellimg -> swollen
+severe weekness and depression -> weakness
+shaking head -> head tilt
+shaking oh head -> head tilt
+shallow breathing -> dyspnea
+sharp feather -> feather loss
+sheep often bites -> itches
+shivering -> sweat
+shock -> shock
+short stature -> bad breath
+short term lethargy -> bad breath
+shortness of breath -> bad breath
+shortness of breath. -> bad breath
+shyness or aggression -> weakness
+sick -> sick
+sickness -> sick
+signs in ewe -> signs in ewe
+signs in rams -> signs in ewe
+sinuses -> nasal
+size of lesions vary -> lesion
+skeleten abnormalities -> asymptomatic
+skeleten pain -> pain
+skin color change -> darkened skin
+skin colour change -> darkened skin
+skin infection -> fever
+skin irritation -> fever
+skin issue -> skin issue
+skin lesion -> lesion
+skin may thicken -> skin issue
+skin rashes -> fever
+skin reashes -> lathargy
+skin ulcer -> lathargy
+skinallergy -> lathargy
+sleeping excessively -> fatigue
+slightly swollen -> swollen
+slim over the shell -> bloody
+sloughing of the tail -> head tilt
+slow growth -> poor growth
+sluggish -> fatigue
+small and yellow bumps -> lumps
+small intestines -> pot belly
+small red bumps -> lumps
+small size -> flank
+smell -> smell
+smell of ammonia -> smell
+sneeze -> sick
+sneezing -> sick
+snoring -> gasping
+sore -> pain
+sores on lip -> lip
+sores on lower leg and teats -> lip
+sour throat -> larynx
+speech delay -> bad breath
+spines -> spines
+splenomegaly -> edema
+spread of infection -> fever
+staggering -> kick
+staggering as drunk -> kick
+stained wool -> poor wool
+stamping and pedding of hind eye -> pink eye
+stand with head droping -> head tilt
+stealing -> shock
+stiff -> stiff
+stiffness -> stiff
+stillbirth -> abortion
+stomach cramps -> pain
+stomach growling -> pot belly
+stomatitis -> pnemonia
+stop drinking -> thirst
+stop eating -> appetite
+stopped eat -> appetite
+straining -> tears
+strange behaviour -> asymptomatic
+straw colored -> blue straws
+stress -> kick
+stripped remiges -> shock
+strong cough -> sick
+stumbling -> swaying
+stunted growth -> poor growth
+succumb -> kick
+sudden abortion -> abortion
+sudden death -> death
+swallowing -> larynx
+swaying -> swaying
+sweat -> sweat
+sweating -> sweat
+sweats -> sweat
+swelling -> swollen
+swelling in the bite area -> facial edema
+swelling may occur under jaw -> facial edema
+swelling of eye -> facial edema
+swelling of eyelid -> facial edema
+swelling of face or leg -> facial edema
+swelling of head and neck -> facial edema
+swelling of internal organs -> swollen
+swelling of joints -> arthritis
+swelling of neck -> facial edema
+swelling of udder -> swollen
+swelling on jaw -> facial edema
+swelling on joints -> arthritis
+swelling on leg -> swollen
+swelling on thebody -> swollen
+swelling problem -> swollen
+swollen -> swollen
+swollen abdomen -> swollen
+swollen and painfull -> swollen
+swollen belly -> swollen
+swollen comb -> swollen
+swollen eyelids -> facial edema
+swollen kidney -> swollen
+swollen left abdomen -> swollen
+swollen lymph nodes -> swollen
+swollen purple wattle -> swollen
+swollen teats -> swollen
+swolling of joint -> arthritis
+tachypea -> spines
+tail shaking -> head tilt
+tail wagging -> head tilt
+tail_bobbing -> head tilt
+tarry stool -> black stool
+tear produce -> tears
+tear production -> tears
+tears -> tears
+tender to touch -> firm
+tenderness -> pain
+tensemus -> tensemus
+terminal convulsion -> nervous
+testical pain -> pain
+thick crusting -> dirty
+thicked skin -> skin issue
+thickening of skin -> skin issue
+thirst -> thirst
+thivk skin -> lathargy
+thrist and urination -> urination
+throat and ear pain -> folded ears
+tiredness -> fatigue
+torticollis -> lathargy
+trachea -> gasping
+trauma -> shock
+trembling -> kick
+tremor -> ataxia
+tremor of head and neck -> ataxia
+tremors -> ataxia
+tremors of the head -> ataxia
+trouble walking -> changed gait
+twisted neck -> twisted neck
+twitching -> kick
+ulcer -> pain
+ulcer on gum -> gums
+ulcerated ear -> folded ears
+ulcerated muscle -> pain
+ulcerated skin -> lathargy
+ulcers -> pain
+unable to eat -> reduce feed
+unable to exercise -> changed gait
+unable to urinate -> urination
+uncharacteristic hiding -> lame
+underdeveloped muscles -> limp
+undernutrition -> poor growth
+undigested in their feces -> pot belly
+undigested seeds -> pot belly
+unilateral nasal discharge -> discharge
+unsteady gait -> changed gait
+unusally thin -> weakness
+upset stomach -> pot belly
+urination -> urination
+urination problem -> urination
+urine dribbling -> polyuria
+urine infection -> polyuria
+urine retention -> urination
+uteria inertia -> tensemus
+vaginal discharge -> discharge
+very cold skin -> fever
+viability -> deability
+vision problem -> pink eye
+vitamin and minerals defiency -> oxygen defiency
+vomiting -> sick
+vomitting -> sick
+walking problem -> changed gait
+wandering -> swaying
+warm -> raw
+wart-like growth -> poor growth
+wasting -> swaying
+watering -> thirst
+watering diarrhea -> diarrhea
+watering of eyes -> dull
+watery diarrhea dispropotion -> diarrhea
+watery eye -> watery eye
+watery eyes -> watery eye
+watery stool -> black stool
+wattles -> raw
+weak calves -> limp
+weak kids -> weakness
+weak pulse -> weak pulse
+weakened legs -> limp
+weakness -> weakness
+week legs -> limp
+week pulse -> weak pulse
+weekness -> sick
+weekness in the back legs -> limp
+weight gain -> overweight
+weight loss -> overweight
+weightloss -> overweight
+weigth bearing long bones -> enlarged skulls
+wether restless -> restlessness
+wheezing -> gasping
+white mark on the muscle -> signs in ewe
+willnot run to jump -> lllthrift
+wool is clumped -> poor wool
+wool loss -> poor wool
+wool production -> poor wool
+wound -> shock
+wound lesion -> lesion
+yellow eye -> dull
+yellow in beak -> misshapen beak
+yellow or green dropping -> red eye
+yellowish discharge -> discharge

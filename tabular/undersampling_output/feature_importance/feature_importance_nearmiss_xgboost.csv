@@ -1,0 +1,1154 @@
+Feature,Importance
+symptoms1_Dyspnea,0.36212125
+symptoms1_Inappentence,0.27450052
+symptoms5_Pain,0.1466602
+symptoms4_Weight loss,0.13681994
+AnimalName_Fowl,0.024442578
+symptoms4_Dehydration,0.022965826
+symptoms1_Fever,0.022081112
+AnimalName_Monkey,0.008929024
+symptoms3_Diarrhea,0.0012369228
+symptoms3_Coughing,0.00024262017
+symptoms4_Death of lamb,0.0
+symptoms4_Decresed egg production,0.0
+symptoms4_Defienciency in vitamin,0.0
+symptoms4_Difficulty in breathing,0.0
+symptoms4_Death,0.0
+symptoms4_Depression,0.0
+symptoms4_Diarrhea,0.0
+symptoms4_Deability,0.0
+symptoms4_Difficult in walking,0.0
+symptoms4_Crusting of the skin,0.0
+symptoms4_Difficulty in Walk,0.0
+AnimalName_Birds,0.0
+symptoms4_Distinctive bumps,0.0
+symptoms4_Discharge from eye,0.0
+symptoms4_Excess sleeping,0.0
+symptoms4_Facial edema,0.0
+symptoms4_Eye and Skin change,0.0
+symptoms4_Exhaustion,0.0
+symptoms4_Exercise in tolerance,0.0
+symptoms4_Excessive production,0.0
+symptoms4_Excessive food intake,0.0
+symptoms4_Enteritis,0.0
+symptoms4_Coughing,0.0
+symptoms4_Enlarged skulls,0.0
+symptoms4_Endomeritis,0.0
+symptoms4_Edematous,0.0
+symptoms4_Easily damage shell,0.0
+symptoms4_Dyspnea,0.0
+symptoms4_Dry Scabs,0.0
+symptoms4_Cramps,0.0
+symptoms4_Colic,0.0
+symptoms4_Cornea become cloudy,0.0
+symptoms4_Consistency of milk,0.0
+symptoms4_Animal stop feed,0.0
+symptoms4_Aneamia,0.0
+symptoms4_Acting aggressive,0.0
+symptoms4_Abortion,0.0
+symptoms4_Abdominal discomfort,0.0
+symptoms3_ rapid heartbeats,0.0
+symptoms3_wheezing,0.0
+symptoms3_weakness,0.0
+symptoms3_weak calves,0.0
+symptoms3_thirst,0.0
+symptoms3_swollen teats,0.0
+symptoms3_swollen purple wattle,0.0
+symptoms3_ruffled feathers,0.0
+symptoms3_respiratory noise,0.0
+symptoms3_reduced appetite,0.0
+symptoms4_Anorexia,0.0
+symptoms4_Appetite,0.0
+symptoms4_Attempt to urinate,0.0
+symptoms4_Broken Bones,0.0
+symptoms4_Flaky,0.0
+symptoms4_Clouded cornea,0.0
+symptoms4_Closed eyes,0.0
+symptoms4_Cloacal pasting,0.0
+symptoms4_Circling,0.0
+symptoms4_Chest Pain,0.0
+symptoms4_Bloody discharge,0.0
+symptoms4_Bad smell,0.0
+symptoms4_Blood in faces,0.0
+symptoms4_Blood from mouth,0.0
+symptoms4_Blindness,0.0
+symptoms4_Bleeding wounds,0.0
+symptoms4_Bite other animals,0.0
+symptoms4_Beak overgrowth,0.0
+symptoms4_Firm,0.0
+symptoms4_Gas or bloating,0.0
+symptoms4_Flat ribs,0.0
+symptoms4_Flatulence,0.0
+symptoms4_Odor to Ear,0.0
+symptoms4_Nose picking,0.0
+symptoms4_Noisy Breathing,0.0
+symptoms4_Nible at their wool,0.0
+symptoms4_Nausea,0.0
+symptoms4_Nasal discharge,0.0
+symptoms4_Nasal,0.0
+symptoms4_Muscle pain,0.0
+symptoms4_Muscle aches,0.0
+symptoms4_Mucus discharge from the eye,0.0
+symptoms4_Mouth lesion,0.0
+symptoms4_Mortality,0.0
+symptoms4_Milky Hard,0.0
+symptoms4_Milk getting out more watery,0.0
+symptoms4_Mammary glads,0.0
+symptoms4_Pain,0.0
+symptoms4_Painfull,0.0
+symptoms4_Painfull Swalling,0.0
+symptoms4_Raw,0.0
+symptoms4_Restlessness,0.0
+symptoms4_Reduce milk ,0.0
+symptoms4_Reduce feed,0.0
+symptoms4_Redness,0.0
+symptoms4_Red skin,0.0
+symptoms4_Red Diarrhea,0.0
+symptoms4_Rapid Heart Rate,0.0
+symptoms4_Pawing at bedding,0.0
+symptoms4_Pruritis,0.0
+symptoms4_Progressive weakness,0.0
+symptoms4_Profuse,0.0
+symptoms4_Production of mucus,0.0
+symptoms4_Pox lesion,0.0
+symptoms4_Pot belly,0.0
+symptoms4_Lumps,0.0
+symptoms4_Loss of powder down,0.0
+symptoms4_Loss of milk production,0.0
+symptoms4_Head ache,0.0
+symptoms4_Hyperesthesia,0.0
+symptoms4_Hyper sensitivity,0.0
+symptoms4_Hock joint,0.0
+symptoms4_Hoarseness,0.0
+symptoms4_Hematuria,0.0
+symptoms4_Heat,0.0
+symptoms4_Head Pressing,0.0
+symptoms4_Inability of Swalllon Feeding,0.0
+symptoms4_Half-closed eye,0.0
+symptoms4_Hairy Fleeces,0.0
+symptoms4_Hair loss,0.0
+symptoms4_Grinding teeth,0.0
+symptoms4_Green Dropping,0.0
+symptoms3_muscular stiffness,0.0
+symptoms4_Immediate death,0.0
+symptoms4_Inappentence,0.0
+symptoms4_Loss of appetite,0.0
+symptoms4_Labored breathing,0.0
+symptoms4_Liver disease,0.0
+symptoms4_Lip,0.0
+symptoms4_Limp,0.0
+symptoms4_Lethargy,0.0
+symptoms4_Lesion,0.0
+symptoms4_Lameness,0.0
+symptoms4_Join pains,0.0
+symptoms4_Infected navels,0.0
+symptoms4_Jerky limb movements,0.0
+symptoms4_Jaw is dropped,0.0
+symptoms4_Itching,0.0
+symptoms4_Irritation,0.0
+symptoms4_Iris prolapse,0.0
+symptoms4_Inflammation of eye,0.0
+symptoms3_rapid pulse and heart rates,0.0
+symptoms3_los of the ability to walk,0.0
+symptoms3_muscles problem,0.0
+symptoms3_Purplish combs,0.0
+symptoms3_Relunctance to walk,0.0
+symptoms3_Relunctance to move,0.0
+symptoms3_Reduce Energy,0.0
+symptoms3_Red patches,0.0
+symptoms3_Red eye,0.0
+symptoms3_Pustulses,0.0
+symptoms3_Prostrat,0.0
+symptoms3_Retained Placenda,0.0
+symptoms3_Pot belly,0.0
+symptoms3_Poor conformation,0.0
+symptoms3_Poor Appetite,0.0
+symptoms3_Paralyzed leg,0.0
+symptoms3_Paralysis,0.0
+symptoms3_Painfull to touch,0.0
+symptoms3_Respiratory distress,0.0
+symptoms3_Retarded Growth,0.0
+symptoms3_Nose Bleeds,0.0
+symptoms3_Seizuers,0.0
+symptoms3_Skin reashes,0.0
+symptoms3_Skin rashes,0.0
+symptoms3_Skeleten pain,0.0
+symptoms3_Severe colic,0.0
+symptoms3_Septic Arthritis,0.0
+symptoms3_Self Mutilation,0.0
+symptoms3_Scartching ear,0.0
+symptoms3_Rough Hair coat,0.0
+symptoms3_Scartches,0.0
+symptoms3_Scaly skin,0.0
+symptoms3_Scabs,0.0
+symptoms3_Ruffled feathers,0.0
+symptoms3_Rub,0.0
+symptoms3_Roughened,0.0
+symptoms3_Occular discharge,0.0
+symptoms3_Normal appetite,0.0
+symptoms3_mild weakness,0.0
+symptoms3_Itches,0.0
+symptoms3_Lethargy,0.0
+symptoms3_Lession on the skin,0.0
+symptoms3_Lameness,0.0
+symptoms3_Kidney failure,0.0
+symptoms3_Kid moratality,0.0
+symptoms3_Kicking at the belly,0.0
+symptoms3_Intellectual disability,0.0
+symptoms3_Loss of pigment,0.0
+symptoms3_Inflammation,0.0
+symptoms3_Infection of the skin,0.0
+symptoms3_Incoordination,0.0
+symptoms3_Hyperaestesia,0.0
+symptoms3_Hydrophobia,0.0
+symptoms3_Hind quarted soil,0.0
+symptoms3_Loss of appetite,0.0
+symptoms3_Loss of wool,0.0
+symptoms3_Nesting behaviour,0.0
+symptoms3_Muscles ache,0.0
+symptoms3_Nervous,0.0
+symptoms3_Neck Paralysis,0.0
+symptoms3_Nause,0.0
+symptoms3_Nasal discharge,0.0
+symptoms3_Nasal Discharge,0.0
+symptoms3_Muscus,0.0
+symptoms3_Muscle weakness,0.0
+symptoms3_Lying down,0.0
+symptoms3_Muscle twiching,0.0
+symptoms3_Muscle Trembling,0.0
+symptoms3_Mucous discharge,0.0
+symptoms3_Mortality,0.0
+symptoms3_Moist,0.0
+symptoms3_Malpresentation,0.0
+symptoms3_Skin ulcer,0.0
+symptoms3_Slow growth,0.0
+symptoms3_Sluggish,0.0
+symptoms3_abortion,0.0
+symptoms3_cough ,0.0
+symptoms3_chirping,0.0
+symptoms3_chewing,0.0
+symptoms3_change their normal behaviour,0.0
+symptoms3_bleeding from wounds,0.0
+symptoms3_abscessess,0.0
+symptoms3_abnormalalities,0.0
+symptoms3_difficulty swallowing,0.0
+symptoms3_Yellow Eye,0.0
+symptoms3_Wound,0.0
+symptoms3_Wool loss,0.0
+symptoms3_Weight loss,0.0
+symptoms3_Weekness in the back legs,0.0
+symptoms3_Weakness,0.0
+symptoms3_difficulty breating,0.0
+symptoms3_diffuse,0.0
+symptoms3_Small intestines,0.0
+symptoms3_inflamed nostrils,0.0
+symptoms3_loss of tail tone,0.0
+symptoms3_loss of appetite,0.0
+symptoms4_Ruffled Coat,0.0
+symptoms3_listlessness,0.0
+symptoms3_lathargy,0.0
+symptoms3_lack of appetite,0.0
+symptoms3_inappetence,0.0
+symptoms3_distended stomach,0.0
+symptoms3_hot udder,0.0
+symptoms3_gasping for breath,0.0
+"symptoms3_facial swelling,",0.0
+symptoms3_droopy wings,0.0
+symptoms3_droopiness,0.0
+symptoms3_drooling,0.0
+symptoms3_Watery Stool,0.0
+symptoms3_Wasting,0.0
+symptoms3_Wart-like growth,0.0
+symptoms3_Stress,0.0
+symptoms3_Swelling ,0.0
+symptoms3_Swelling,0.0
+symptoms3_Sweats,0.0
+symptoms3_Sweat,0.0
+symptoms3_Sudden death,0.0
+symptoms3_Stumbling,0.0
+symptoms3_Strange behaviour,0.0
+symptoms3_Vomiting,0.0
+symptoms3_Stillbirth,0.0
+symptoms3_Stand with head droping,0.0
+symptoms3_Staggering,0.0
+symptoms3_Spread of infection,0.0
+symptoms3_Sores on lower leg and teats,0.0
+symptoms3_Sneezing,0.0
+symptoms3_Swelling may occur under jaw,0.0
+symptoms3_Swelling of eyelid,0.0
+symptoms3_Swelling of head and neck,0.0
+symptoms3_Swelling of neck,0.0
+symptoms3_Swelling on jaw,0.0
+symptoms3_Swollen,0.0
+symptoms3_Swollen Abdomen,0.0
+symptoms3_Swollen kidney,0.0
+symptoms3_Tail_Bobbing,0.0
+symptoms3_Tear produce,0.0
+symptoms3_Thrist and urination,0.0
+symptoms3_Trachea,0.0
+symptoms3_Trembling,0.0
+symptoms3_Tremor,0.0
+symptoms3_Tremors of the head,0.0
+symptoms3_Underdeveloped muscles,0.0
+symptoms3_Vitamin and minerals defiency,0.0
+symptoms4_Retching,0.0
+symptoms4_Scabs on lip,0.0
+symptoms4_Rump,0.0
+symptoms5_Nervous Issue,0.0
+symptoms5_Oxygen defiency,0.0
+symptoms5_Ocular discharge,0.0
+symptoms5_Obscure Lameness,0.0
+symptoms5_Nuerological,0.0
+symptoms5_Not eating,0.0
+symptoms5_Neurologic abnormalities,0.0
+symptoms5_Neck Vein Swelling,0.0
+symptoms5_Pain on leg,0.0
+symptoms5_Nausea,0.0
+symptoms5_Nasal Discharge,0.0
+symptoms5_Muscle stiffness,0.0
+symptoms5_Muscle pain,0.0
+symptoms5_Muscle aches,0.0
+symptoms5_Mortality varies,0.0
+symptoms5_Pain on face,0.0
+symptoms5_Pains,0.0
+symptoms5_Misshapen Beak,0.0
+symptoms5_Recumbency,0.0
+symptoms5_Rubbing eye,0.0
+symptoms5_Respiratory infection,0.0
+symptoms5_Reduce Lamp marking,0.0
+symptoms5_Redness on ear,0.0
+symptoms5_Red lesion from bald patches,0.0
+symptoms5_Red and inflammation ear,0.0
+symptoms5_Raised growth or bump,0.0
+symptoms5_Pale gums,0.0
+symptoms5_Poor Body condition,0.0
+symptoms5_Polydipsa,0.0
+symptoms5_Pink eye,0.0
+symptoms5_Pharyngitis,0.0
+symptoms5_Periodic vommiting,0.0
+symptoms5_Papules appear on teats anad udder,0.0
+symptoms5_Moist and painfull,0.0
+symptoms5_Milk reduce,0.0
+symptoms5_Scratching,0.0
+symptoms5_Folded Ears,0.0
+symptoms5_Inability to jump,0.0
+symptoms5_Inability to absorb nutrients,0.0
+symptoms5_Hair loss,0.0
+symptoms5_Greenish diarrhea,0.0
+symptoms5_Good appetite,0.0
+symptoms5_Frequent eye Infections,0.0
+symptoms5_Fluif filled blisters,0.0
+symptoms5_Infection,0.0
+symptoms5_Flock Moratality,0.0
+symptoms5_Flaking of the Scutes,0.0
+symptoms5_Fever,0.0
+symptoms5_Fatique,0.0
+symptoms5_Fatigue,0.0
+symptoms5_Faeces are streake with blood,0.0
+symptoms5_Increased in breathing,0.0
+symptoms5_Itchiness,0.0
+symptoms5_Milk getting out more thick,0.0
+symptoms5_Listlessness,0.0
+symptoms5_Lying down,0.0
+symptoms5_Lound breathing,0.0
+symptoms5_Lossened Teeth,0.0
+symptoms5_Loss of vitamin E,0.0
+symptoms5_Loss of eye,0.0
+symptoms5_Loss of appettite,0.0
+symptoms5_Limping,0.0
+symptoms5_Jaundice,0.0
+symptoms5_Lethargy,0.0
+symptoms5_Lesions on nose,0.0
+symptoms5_Lesions on ear,0.0
+symptoms5_Lesion,0.0
+symptoms5_Lameness,0.0
+symptoms5_Joint Pain,0.0
+symptoms5_Salivating,0.0
+symptoms5_Seizures,0.0
+symptoms4_Salivation,0.0
+symptoms5_anorexia,0.0
+symptoms5_droopy wings,0.0
+symptoms5_drooping ears,0.0
+symptoms5_difficulty moving and eating,0.0
+symptoms5_diarrhoea,0.0
+symptoms5_depression,0.0
+symptoms5_coughing,0.0
+symptoms5_anaemia,0.0
+symptoms5_extending its neck,0.0
+symptoms5_Wool production,0.0
+symptoms5_Weigth bearing long bones,0.0
+symptoms5_Weightloss,0.0
+symptoms5_Weight loss,0.0
+symptoms5_Weight gain,0.0
+symptoms5_Weight Loss,0.0
+symptoms5_dull ness,0.0
+symptoms5_fever,0.0
+symptoms5_Weakness,0.0
+symptoms5_sudden death,0.0
+symptoms5_ increased passing gas,0.0
+symptoms5_weakness,0.0
+symptoms5_urination problem,0.0
+symptoms5_twisted neck,0.0
+symptoms5_trembling,0.0
+symptoms5_swollen abdomen,0.0
+symptoms5_slow growth,0.0
+symptoms5_gasping for breath,0.0
+symptoms5_restless movement,0.0
+symptoms5_recumbency,0.0
+symptoms5_loss of wariness,0.0
+symptoms5_lameness,0.0
+symptoms5_lack of vocalizations,0.0
+symptoms5_inability to rise,0.0
+symptoms5_Week pulse,0.0
+symptoms5_Wasting,0.0
+symptoms5_Sensitive to touch,0.0
+symptoms5_Sleeping Excessively,0.0
+symptoms5_Stiffness,0.0
+symptoms5_Stamping And pedding of hind eye,0.0
+symptoms5_Staggering,0.0
+symptoms5_Snoring,0.0
+symptoms5_Sneezing,0.0
+symptoms5_Sloughing of the tail,0.0
+symptoms5_Skin issue,0.0
+symptoms5_Stopped eat,0.0
+symptoms5_Shyness or aggression,0.0
+symptoms5_Shortness of breath,0.0
+symptoms5_Shock,0.0
+symptoms5_Shaking oh head,0.0
+symptoms5_Severe weekness and depression,0.0
+symptoms5_Septicemia,0.0
+symptoms5_Stomach  cramps,0.0
+symptoms5_Sudden death,0.0
+symptoms5_Vomitting,0.0
+symptoms5_Ulcerated ear,0.0
+symptoms5_Vision Problem,0.0
+symptoms5_Vaginal Discharge,0.0
+symptoms5_Undigested seeds,0.0
+symptoms5_Underdeveloped muscles,0.0
+symptoms5_Unable to exercise,0.0
+symptoms5_Ulcerated skin,0.0
+symptoms5_Throat and Ear pain,0.0
+symptoms5_Swelling of internal organs,0.0
+symptoms5_Terminal convulsion,0.0
+symptoms5_Tenderness,0.0
+symptoms5_Tear production,0.0
+symptoms5_Tail shaking,0.0
+symptoms5_Swollen and painfull,0.0
+symptoms5_Swelling of joints,0.0
+symptoms5_Facial swelling,0.0
+symptoms5_Facial paralysis,0.0
+symptoms5_Eye redness,0.0
+symptoms4_Watery eye,0.0
+symptoms4_White mark on the muscle,0.0
+symptoms4_Week legs,0.0
+symptoms4_Weakness,0.0
+symptoms4_Weak kids,0.0
+symptoms4_Weak Pulse,0.0
+symptoms4_Wattles,0.0
+symptoms4_Wasting,0.0
+symptoms4_congestion,0.0
+symptoms4_Walking problem,0.0
+symptoms4_Vomiting,0.0
+symptoms4_Urine retention,0.0
+symptoms4_Urine infection,0.0
+symptoms4_Urination,0.0
+symptoms4_Unable To Eat,0.0
+symptoms4_Yellowish Discharge,0.0
+symptoms4_diarrhea,0.0
+symptoms4_Twitching,0.0
+symptoms4_gasping for air,0.0
+symptoms4_lameness in affected leg,0.0
+symptoms4_inability to fly,0.0
+symptoms4_high body temperature,0.0
+symptoms4_heavy breathing,0.0
+symptoms4_gurgling sound,0.0
+symptoms4_gasping for breath,0.0
+symptoms4_frequent yawning,0.0
+symptoms4_difficulty diagnosis,0.0
+symptoms4_foul smelling stools,0.0
+symptoms4_fluffed feathers,0.0
+symptoms4_experiencing changes in weight,0.0
+symptoms4_droopy wings,0.0
+symptoms4_drooling,0.0
+symptoms4_difficulty swallowing,0.0
+symptoms4_Ulcerated muscle,0.0
+symptoms4_Torticollis,0.0
+symptoms5_Eye movements,0.0
+symptoms4_Shivering,0.0
+symptoms4_Small size,0.0
+symptoms4_Skin rashes,0.0
+symptoms4_Skin infection,0.0
+symptoms4_Skin Rashes,0.0
+symptoms4_Size of lesions vary,0.0
+symptoms4_Shock,0.0
+symptoms4_Severe inflammation,0.0
+symptoms4_Staggering,0.0
+symptoms4_Semen Examination,0.0
+symptoms4_Scratches,0.0
+symptoms4_Scartches,0.0
+symptoms4_Scartch,0.0
+symptoms3_Hemoglobinuria,0.0
+symptoms4_Scabbing,0.0
+symptoms4_Sneezing,0.0
+symptoms4_Stained Wool,0.0
+symptoms4_Tiredness,0.0
+symptoms4_Swollen,0.0
+symptoms4_Thickening of skin,0.0
+symptoms4_Tender to touch,0.0
+symptoms4_Tears,0.0
+symptoms4_Tarry Stool,0.0
+symptoms4_Swolling of joint,0.0
+symptoms4_Swollen comb,0.0
+symptoms4_Swelling on theBody,0.0
+symptoms4_Stiffness,0.0
+symptoms4_Swelling on joints,0.0
+symptoms4_Swelling,0.0
+symptoms4_Swallowing,0.0
+symptoms4_Stumbling,0.0
+symptoms4_Stomach growling,0.0
+symptoms4_Stomach cramps,0.0
+symptoms4_loss of alertness,0.0
+symptoms4_loss of appetite,0.0
+symptoms4_lying down,0.0
+symptoms5_Decrease in milk production,0.0
+symptoms5_Distended chest,0.0
+symptoms5_Diphtherictic,0.0
+symptoms5_Difficulty in Breathing,0.0
+symptoms5_Diarrhea,0.0
+symptoms5_Depression,0.0
+symptoms5_Dehydration,0.0
+symptoms5_Decrease appetite,0.0
+symptoms5_Dizziness,0.0
+symptoms5_Death,0.0
+symptoms5_Convulsion,0.0
+symptoms5_Constipation,0.0
+symptoms5_Congestion,0.0
+symptoms5_Colic,0.0
+symptoms5_Chest Pain,0.0
+symptoms5_Distended stomach,0.0
+symptoms5_Drop in milk production,0.0
+symptoms4_noisy breathing,0.0
+symptoms5_Enlarged lymph nodes or Swelling,0.0
+symptoms5_Eye closed,0.0
+symptoms5_Eye become dull,0.0
+symptoms5_Extension of neck,0.0
+symptoms5_Excessive grooming,0.0
+symptoms5_Eventually death,0.0
+symptoms5_Epistaxis,0.0
+symptoms5_Enlarged lymph nodes,0.0
+symptoms5_Drop on egg production,0.0
+symptoms5_Emaciation,0.0
+symptoms5_Effort to breath,0.0
+symptoms5_Dyspnea,0.0
+symptoms5_Dullness,0.0
+symptoms5_Dry air,0.0
+symptoms5_Dry Hair coat,0.0
+symptoms5_Carcass decomposes,0.0
+"symptoms5_Bumps(black,grey or red)",0.0
+symptoms5_Blue Eye,0.0
+symptoms4_twisted neck,0.0
+symptoms5_Abdonormal pain,0.0
+symptoms5_Abdonormal discomfort,0.0
+symptoms5_ dizziness and fainting,0.0
+symptoms4_weakness,0.0
+symptoms4_watery eyes,0.0
+symptoms4_urine dribbling,0.0
+symptoms4_tiredness,0.0
+symptoms5_Bloody in feather,0.0
+symptoms4_swollen lymph nodes,0.0
+symptoms4_stomatitis,0.0
+symptoms4_self-isolation,0.0
+symptoms4_rectal bleeding,0.0
+symptoms4_pulmonary congestion,0.0
+symptoms4_pain ,0.0
+symptoms5_Abnormal behaviour,0.0
+symptoms5_Abnormalities,0.0
+symptoms5_Acting unnaturally tame,0.0
+symptoms5_Anaemia,0.0
+symptoms5_Anemia,0.0
+symptoms5_Anorexia,0.0
+symptoms5_Arthritis,0.0
+symptoms5_Ataxia,0.0
+symptoms5_Black stool,0.0
+symptoms5_Bleeding from the nose,0.0
+symptoms5_Bleeding in eye and skin,0.0
+symptoms5_Blindness,0.0
+symptoms5_Blister,0.0
+symptoms5_Blood Clots,0.0
+symptoms5_Blood Poisioning ,0.0
+symptoms5_Bloody,0.0
+symptoms5_Bloody Diarrhea,0.0
+symptoms3_High moratality,0.0
+symptoms3_Gums,0.0
+symptoms3_Headache,0.0
+symptoms1_Shallow breathing,0.0
+symptoms1_Signs in rams,0.0
+symptoms1_Sickness,0.0
+symptoms1_Shortness of breath.,0.0
+symptoms1_Short term lethargy,0.0
+symptoms1_Sheep often bites,0.0
+symptoms1_Sharp Feather,0.0
+symptoms1_Shaking head,0.0
+symptoms1_Skeleten abnormalities,0.0
+symptoms1_Severe swellimg,0.0
+symptoms1_Severe kerititis,0.0
+symptoms1_Severe,0.0
+symptoms1_Sensitivity to bright light,0.0
+symptoms1_Scaly patches of skin,0.0
+symptoms1_Scabs On feet,0.0
+symptoms1_Sinuses,0.0
+symptoms1_Skin color change,0.0
+symptoms1_Ruffled Appearance,0.0
+symptoms1_Sores on lip,0.0
+symptoms1_Swaying,0.0
+symptoms1_Sudden death,0.0
+symptoms1_Strong cough,0.0
+symptoms1_Stripped remiges,0.0
+symptoms1_Straining,0.0
+symptoms1_Spines,0.0
+symptoms1_Sneezing,0.0
+symptoms1_Skin infection,0.0
+symptoms1_Smell of ammonia,0.0
+symptoms1_Smell,0.0
+symptoms1_Small red bumps,0.0
+symptoms1_SkinAllergy,0.0
+symptoms1_Skin rashes,0.0
+symptoms1_Skin irritation,0.0
+symptoms1_Runny nose,0.0
+symptoms1_Ring shaped Lesion,0.0
+symptoms1_Swelling of udder,0.0
+symptoms1_Nausea,0.0
+symptoms1_Pale comb,0.0
+symptoms1_Overweight,0.0
+symptoms1_Oedema,0.0
+symptoms1_Nosebleed ,0.0
+symptoms1_Normal appetite,0.0
+symptoms1_Neck paralysis,0.0
+symptoms1_Nasal discharge,0.0
+symptoms1_Passing of undigested food,0.0
+symptoms1_Nasal Bleeding,0.0
+symptoms1_Most often none,0.0
+symptoms1_Mortality,0.0
+symptoms1_Loss of eat,0.0
+symptoms1_Loss of appetite,0.0
+symptoms1_Loss of activity,0.0
+symptoms1_Partial Paralysis,0.0
+symptoms1_Pnemonia,0.0
+symptoms1_Rhinitis,0.0
+symptoms1_Radip onset,0.0
+symptoms1_Restlessness,0.0
+symptoms1_Respiratory distress,0.0
+symptoms1_Reluctant Move,0.0
+symptoms1_Red skin,0.0
+symptoms1_Red on affected area,0.0
+symptoms1_Red Tinge,0.0
+symptoms1_Pyrexia,0.0
+symptoms1_Polyuria,0.0
+symptoms1_Puffed_up Feather,0.0
+symptoms1_Poor wool,0.0
+symptoms1_Poor immune function,0.0
+symptoms1_Poor growth,0.0
+symptoms1_Poor condition,0.0
+symptoms1_Poor coat apperence ,0.0
+symptoms1_Swelling,0.0
+symptoms1_Swelling on leg,0.0
+symptoms3_Hardness,0.0
+symptoms1_outstretched neck,0.0
+symptoms1_swollen,0.0
+symptoms1_swelling,0.0
+symptoms1_sweating,0.0
+symptoms1_sudden death,0.0
+symptoms1_stop eating,0.0
+symptoms1_paresis,0.0
+symptoms1_nausea,0.0
+symptoms1_undernutrition,0.0
+symptoms1_loss of appetite,0.0
+symptoms1_loss in weight,0.0
+symptoms1_lllthrift,0.0
+symptoms1_head tilt,0.0
+symptoms1_haemorrhage,0.0
+symptoms1_fever,0.0
+symptoms1_unable to urinate,0.0
+symptoms1_wasting,0.0
+symptoms1_eye discharges,0.0
+symptoms2_Anoxeria,0.0
+symptoms2_Bloody Drool,0.0
+symptoms2_Blindness,0.0
+symptoms2_Behaviour change,0.0
+symptoms2_Aversion to light,0.0
+symptoms2_Ataxia,0.0
+symptoms2_Anversion to light,0.0
+symptoms2_Animal become lame,0.0
+symptoms1_weakness,0.0
+symptoms2_Anemia,0.0
+symptoms2_Achomotrica,0.0
+symptoms2_Abortion,0.0
+symptoms2_Abdominal destention,0.0
+symptoms2_Abdminal pain,0.0
+symptoms1_weight loss,0.0
+symptoms1_feline infections,0.0
+symptoms1_extending its neck,0.0
+symptoms1_Swollen,0.0
+symptoms1_Thicked skin,0.0
+symptoms1_Undigested in their feces,0.0
+symptoms1_Ulcers,0.0
+symptoms1_Tremors,0.0
+symptoms1_Tremor of head and neck,0.0
+symptoms1_Tremor ,0.0
+symptoms1_Thivk skin,0.0
+symptoms1_Thick Crusting,0.0
+symptoms1_Upset stomach,0.0
+symptoms1_Tenderness,0.0
+symptoms1_Tear production,0.0
+symptoms1_Tail Wagging,0.0
+symptoms1_Swollen lymph nodes,0.0
+symptoms1_Swollen left abdomen,0.0
+symptoms1_Swollen Belly,0.0
+symptoms1_Unsteady Gait,0.0
+symptoms1_Vomiting,0.0
+symptoms1_egg production decreases,0.0
+symptoms1_Wheezing,0.0
+symptoms1_difficulty swallowing,0.0
+symptoms1_cough ,0.0
+symptoms1_cough,0.0
+symptoms1_changed gait,0.0
+symptoms1_burning ache or pain,0.0
+symptoms1_Wool is clumped,0.0
+symptoms1_Wether restless,0.0
+symptoms1_Wandering,0.0
+symptoms1_Weakness,0.0
+symptoms1_Watery Eyes,0.0
+symptoms1_Watery Diarrhea dispropotion,0.0
+symptoms1_Watering of eyes,0.0
+symptoms1_Watering Diarrhea,0.0
+symptoms1_Watering,0.0
+symptoms1_Loss od appetite,0.0
+symptoms1_Listless,0.0
+symptoms1_Liquid Dropping,0.0
+symptoms1_Abdominal pain,0.0
+symptoms1_Apathy,0.0
+symptoms1_Animal gets uneasy,0.0
+symptoms1_Allergic Reaction,0.0
+symptoms1_Air sacculitis,0.0
+symptoms1_Abortion on late pregancy,0.0
+symptoms1_Abortion ,0.0
+symptoms1_ abortion at the end of gestation,0.0
+symptoms1_Attacks,0.0
+AnimalName_snake,0.0
+AnimalName_mules,0.0
+AnimalName_mammal,0.0
+AnimalName_horse,0.0
+AnimalName_duck,0.0
+AnimalName_donkey,0.0
+symptoms1_Appetite varies,0.0
+symptoms1_Bad breath,0.0
+AnimalName_chicken,0.0
+symptoms1_Bloody Diarhhea,0.0
+symptoms1_Cessation of eructation,0.0
+symptoms1_Cell Damage,0.0
+symptoms1_Bubbles in the mouth,0.0
+symptoms1_Bony Lesion,0.0
+symptoms1_Bluish white opacity,0.0
+symptoms1_Bloody Urine,0.0
+symptoms1_Blood stool,0.0
+symptoms1_Balance problem,0.0
+symptoms1_Blood in urine,0.0
+symptoms1_Blood from mouth,0.0
+symptoms1_Bleeding from other parts of the body,0.0
+symptoms1_Berberi,0.0
+symptoms1_Barren ewes,0.0
+symptoms1_Bald patches,0.0
+AnimalName_cow,0.0
+AnimalName_cattle,0.0
+symptoms1_Limping,0.0
+AnimalName_Duck,0.0
+AnimalName_Goats,0.0
+AnimalName_Goat,0.0
+AnimalName_Fox ,0.0
+AnimalName_Fox,0.0
+AnimalName_Elk,0.0
+AnimalName_Elephant,0.0
+AnimalName_Donkey,0.0
+AnimalName_Horse,0.0
+AnimalName_Dogs,0.0
+AnimalName_Dog,0.0
+AnimalName_Deer,0.0
+AnimalName_Chicken,0.0
+AnimalName_Cattle,0.0
+AnimalName_Buffaloes,0.0
+AnimalName_Hamster,0.0
+AnimalName_Hyaenas,0.0
+AnimalName_cat,0.0
+AnimalName_Sheep,0.0
+AnimalName_Wolves,0.0
+AnimalName_White-tailed deer,0.0
+AnimalName_Wapiti,0.0
+AnimalName_Turtle,0.0
+AnimalName_Tiger,0.0
+AnimalName_Sika deer,0.0
+AnimalName_Reindeer,0.0
+AnimalName_Lion,0.0
+AnimalName_Rabbit,0.0
+AnimalName_Pigs,0.0
+AnimalName_Pig,0.0
+AnimalName_Other Birds,0.0
+AnimalName_Mule deer,0.0
+AnimalName_Moos,0.0
+symptoms1_Changes in outer layer skin,0.0
+symptoms1_Constant pacing,0.0
+symptoms1_Continuous loss of weight,0.0
+symptoms1_General malaise,0.0
+symptoms1_Head tossing,0.0
+symptoms1_Head tilt,0.0
+symptoms1_Head Shking,0.0
+symptoms1_Hair loss,0.0
+symptoms1_Groosly enlarged,0.0
+symptoms1_Greenish-yellow nasal discharge,0.0
+symptoms1_Gastritis,0.0
+symptoms1_Heavy infection,0.0
+symptoms1_Gasping,0.0
+symptoms1_Gasc,0.0
+symptoms1_Gas,0.0
+symptoms1_Foul Smelling,0.0
+symptoms1_Forthy eye,0.0
+symptoms1_Formation of vesicles,0.0
+symptoms1_Heavy Breathing,0.0
+symptoms1_Hemopytsis,0.0
+symptoms1_Convulsion,0.0
+symptoms1_Labored breathing,0.0
+symptoms1_Lethargy,0.0
+symptoms1_Lession on cat skin,0.0
+symptoms1_Lesions in the nasal cavity,0.0
+symptoms1_Lepatomegaly,0.0
+symptoms1_Legness,0.0
+symptoms1_Lack of walking,0.0
+symptoms1_Jaundice,0.0
+symptoms1_Hyperexcitability,0.0
+symptoms1_Isolation from flock,0.0
+symptoms1_Inflammation ,0.0
+symptoms1_Indigestion,0.0
+symptoms1_Inability to stand ,0.0
+symptoms1_Inability to digest,0.0
+symptoms1_Immediate death,0.0
+symptoms1_Fluif Faeces on blood and muscle,0.0
+symptoms1_Fluffed Feather,0.0
+symptoms1_Floopy muscle,0.0
+symptoms1_Difficulty in breathing,0.0
+symptoms1_Drooping ears,0.0
+symptoms1_Dizzines,0.0
+symptoms1_Discomfort,0.0
+symptoms1_Discharge From eyes,0.0
+symptoms1_Discharge ,0.0
+symptoms1_Difficulty in feeding,0.0
+symptoms1_Diarrhea with muscus,0.0
+symptoms1_Fetopelvic dispropotion,0.0
+symptoms1_Dejection,0.0
+symptoms1_Decreased milk,0.0
+symptoms1_Decreased growth of bone,0.0
+symptoms1_Decreased eyelid,0.0
+symptoms1_Dark or black face,0.0
+symptoms1_Coughing ,0.0
+symptoms1_Drooping wings,0.0
+symptoms1_Dullness,0.0
+symptoms1_Edema,0.0
+symptoms1_Egg production stops,0.0
+symptoms1_Emaciation,0.0
+symptoms1_Enlarged Thymus,0.0
+symptoms1_Excess salivation,0.0
+symptoms1_Excessive blood loss,0.0
+symptoms1_Excessive eye watering,0.0
+symptoms1_Excitability,0.0
+symptoms1_Exessive Urination,0.0
+symptoms1_Extreme thirst,0.0
+symptoms1_Eye redness,0.0
+symptoms1_Facial Swelling,0.0
+symptoms1_Facial edema,0.0
+symptoms1_Fatty stool,0.0
+symptoms1_Feather Loss,0.0
+symptoms2_Bloody diarrhea,0.0
+symptoms2_Body stiffness,0.0
+symptoms2_Bottle jaw,0.0
+symptoms2_dizziness and fainting,0.0
+symptoms2_high body temperaure,0.0
+symptoms2_gasping for air,0.0
+symptoms2_emaciation,0.0
+symptoms2_dull ness,0.0
+symptoms2_dry or tacky gums,0.0
+symptoms2_drinking polluted water,0.0
+symptoms2_diarrhea,0.0
+symptoms2_lathargy,0.0
+symptoms2_decreased stool production,0.0
+symptoms2_cough ,0.0
+symptoms2_coughing ,0.0
+symptoms2_confusion,0.0
+symptoms2_change in milk,0.0
+symptoms2_bloody discharge,0.0
+symptoms2_high temperature,0.0
+symptoms2_loss of appetite,0.0
+symptoms2_Yellow in beak,0.0
+symptoms2_sneeze,0.0
+symptoms2_vomiting,0.0
+symptoms2_thirst,0.0
+symptoms2_swelling problem,0.0
+symptoms2_stunted growth,0.0
+symptoms2_stumbling,0.0
+symptoms2_stop drinking,0.0
+symptoms2_red-colored ,0.0
+symptoms2_lymphosarcoma,0.0
+symptoms2_paralysis,0.0
+symptoms2_panting,0.0
+symptoms2_nasal discharge,0.0
+symptoms2_muscular spasms,0.0
+symptoms2_morbidity,0.0
+symptoms2_mild colic,0.0
+symptoms2_Yellow or green dropping,0.0
+symptoms2_Wound lesion,0.0
+symptoms2_Stiffness,0.0
+symptoms2_Swelling of eye,0.0
+symptoms2_Tiredness,0.0
+symptoms2_Testical Pain,0.0
+symptoms2_Tensemus,0.0
+symptoms2_Tachypea,0.0
+symptoms2_Swollen Eyelids,0.0
+symptoms2_Swelling of face or leg,0.0
+symptoms2_Swelling  in the bite area,0.0
+symptoms2_Trauma,0.0
+symptoms2_Swelling,0.0
+symptoms2_Sudden Death,0.0
+symptoms2_Sudden Abortion,0.0
+symptoms2_Succumb,0.0
+symptoms2_Straw colored,0.0
+symptoms2_Straining,0.0
+symptoms2_Torticollis,0.0
+symptoms2_Trouble walking,0.0
+symptoms2_Wool loss,0.0
+symptoms2_Viability,0.0
+symptoms2_Willnot run to jump,0.0
+symptoms2_Wheezing,0.0
+symptoms2_Weekness,0.0
+symptoms2_Weakness,0.0
+symptoms2_Wasting,0.0
+symptoms2_Warm,0.0
+symptoms2_Very cold skin,0.0
+symptoms2_Twitching,0.0
+symptoms2_Uteria inertia,0.0
+symptoms2_Unusally thin,0.0
+symptoms2_Unilateral Nasal discharge,0.0
+symptoms2_Uncharacteristic hiding,0.0
+symptoms2_Ulcer on gum,0.0
+symptoms2_Ulcer,0.0
+symptoms2_weakened legs,0.0
+symptoms3_Abdominal discomfort,0.0
+symptoms3_Abdominal pain,0.0
+symptoms3_Dribbling of saliva,0.0
+symptoms3_Edema in lower jaw,0.0
+symptoms3_Ear infection,0.0
+symptoms3_Dullness,0.0
+symptoms3_Dry skin,0.0
+symptoms3_Dry or dull hair,0.0
+symptoms3_Drooling,0.0
+symptoms3_Discharge,0.0
+symptoms3_Enlargement of bones,0.0
+symptoms3_Dirty,0.0
+symptoms3_Dilation of duodenum,0.0
+symptoms3_Difficulty in rising,0.0
+symptoms3_Difficulty in Swallowing,0.0
+symptoms3_Difficult in respiration,0.0
+symptoms3_Despression,0.0
+symptoms3_Emaciation,0.0
+symptoms3_Enteritis,0.0
+symptoms3_Abnormal conformation,0.0
+symptoms3_Flank,0.0
+symptoms3_Hair loss,0.0
+AnimalName_Black-tailed deer,0.0
+symptoms3_Grunting,0.0
+symptoms3_Grinding of teeth,0.0
+symptoms3_Gagging,0.0
+symptoms3_Foul Breath,0.0
+symptoms3_Flabby,0.0
+symptoms3_Excess salivary,0.0
+symptoms3_Fever,0.0
+symptoms3_Fast breathing,0.0
+symptoms3_Facial Paralysis,0.0
+symptoms3_Eyeproblem,0.0
+symptoms3_Eye disharge,0.0
+symptoms3_Excessive drooling,0.0
+symptoms3_Depression,0.0
+symptoms3_Dehydration,0.0
+symptoms3_Decreased appetite,0.0
+symptoms3_Bad smell,0.0
+symptoms3_Bloody Diarrhea,0.0
+symptoms3_Bloody,0.0
+symptoms3_Blood on faces,0.0
+symptoms3_Blood in stool,0.0
+symptoms3_Blindness,0.0
+symptoms3_Black on ear,0.0
+symptoms3_Back Pain,0.0
+symptoms3_Death,0.0
+symptoms3_Attack,0.0
+symptoms3_Ataxia,0.0
+symptoms3_Asymptomatic,0.0
+symptoms3_Aggressiveness,0.0
+symptoms3_Agalactia,0.0
+symptoms3_Abnormally long leg,0.0
+symptoms3_Bloody droping,0.0
+symptoms3_Blooody Fluid,0.0
+symptoms3_Blue colored lip,0.0
+symptoms3_Blue straws,0.0
+symptoms3_Bluish white opacity,0.0
+symptoms3_Blurry vision,0.0
+symptoms3_Bottle Jaw,0.0
+symptoms3_Clearly unthrifty,0.0
+symptoms3_Colic,0.0
+symptoms3_Congestion,0.0
+symptoms3_Conjuctivtis,0.0
+symptoms3_Constipation,0.0
+symptoms3_Convulsion,0.0
+symptoms3_Corneal Ulceration,0.0
+symptoms3_Crusty,0.0
+symptoms3_Crusty eye lashes and matting of eyelashes,0.0
+symptoms3_Darkened skin,0.0
+symptoms2_Stillbirth,0.0
+symptoms2_Stiff,0.0
+symptoms2_Broody behavior,0.0
+symptoms2_Feels stiff,0.0
+symptoms2_Hair tining,0.0
+symptoms2_Hair loss,0.0
+symptoms2_Frequent eye Infections,0.0
+symptoms2_Foot Hot,0.0
+symptoms2_Fleece become thin,0.0
+symptoms2_Fell unwell,0.0
+symptoms2_Feather Plucking,0.0
+symptoms2_Heat,0.0
+symptoms2_Fatigue,0.0
+symptoms2_Facial muscle twitching,0.0
+symptoms2_Facial defects,0.0
+symptoms2_Eye ulcer,0.0
+symptoms2_Eye redness,0.0
+symptoms2_Eye closed,0.0
+symptoms2_Halitosis,0.0
+symptoms2_Heavy Breathing,0.0
+symptoms2_Excession Salivation,0.0
+symptoms2_Itchiness,0.0
+symptoms2_Lacrimation,0.0
+symptoms2_Lack of pigmentation,0.0
+symptoms2_Lack of flying,0.0
+symptoms2_Lack of coordination,0.0
+symptoms2_Kicking,0.0
+symptoms2_Kick,0.0
+symptoms2_Inflammed eye,0.0
+symptoms2_Hemolytic anemia,0.0
+symptoms2_Infection,0.0
+symptoms2_Hot joints,0.0
+symptoms2_Horny growth,0.0
+symptoms2_Holding limbs off the ground,0.0
+symptoms2_Hepatitis,0.0
+symptoms2_Hepatic failure,0.0
+symptoms2_Exhaustion,0.0
+symptoms2_Erythema,0.0
+symptoms2_Stealing ,0.0
+symptoms2_Crusty,0.0
+symptoms2_Diarrhea,0.0
+symptoms2_Depression,0.0
+symptoms2_Death,0.0
+symptoms2_Dark colored bloody,0.0
+symptoms2_Dandruff in cat coat,0.0
+symptoms2_Dandruff,0.0
+symptoms2_Convulsion,0.0
+symptoms2_Difficultty in Breathing,0.0
+symptoms2_Conjunctive,0.0
+symptoms2_Clubbed Feather,0.0
+symptoms2_Circling,0.0
+symptoms2_Chronic eye inflamation,0.0
+symptoms2_Chills,0.0
+symptoms2_Change in gait,0.0
+symptoms2_Diffculty breathing,0.0
+symptoms2_Difficulty breathing,0.0
+symptoms2_Epistaxis,0.0
+symptoms2_Distress,0.0
+symptoms2_Enlarged lymph nodes,0.0
+symptoms2_Edema in lower jaw,0.0
+symptoms2_Dyspnea,0.0
+symptoms2_Dysentery,0.0
+symptoms2_Dullness,0.0
+symptoms2_Dull,0.0
+symptoms2_Disharge from affected eye,0.0
+symptoms2_Difficulty in breathing,0.0
+symptoms2_Discomfort,0.0
+symptoms2_Discharge from ear,0.0
+symptoms2_Diffulty chewing,0.0
+symptoms2_Diffulty Swallowing,0.0
+symptoms2_Difficulty walking,0.0
+symptoms2_Difficulty in walking,0.0
+symptoms2_Lame,0.0
+symptoms2_Lameness,0.0
+symptoms2_Larynx,0.0
+symptoms2_Rhinorrhea,0.0
+symptoms2_Secondary Infection,0.0
+symptoms2_Scartching ear,0.0
+symptoms2_Scartching,0.0
+symptoms2_Runny nose,0.0
+symptoms2_Round patches,0.0
+symptoms2_Rough coat,0.0
+symptoms2_Respiratory distress,0.0
+symptoms2_Severe headache,0.0
+symptoms2_Regurgitation of food,0.0
+symptoms2_Reduce growth,0.0
+symptoms2_Reduce Reproductive potential,0.0
+symptoms2_Redness of white of the eye,0.0
+symptoms2_Redness of eye,0.0
+symptoms2_Redness ,0.0
+symptoms2_Seizures,0.0
+symptoms2_Short stature,0.0
+symptoms2_Lesions ,0.0
+symptoms2_Small and yellow bumps,0.0
+symptoms2_Staggering as drunk,0.0
+symptoms2_Splenomegaly,0.0
+symptoms2_Speech delay,0.0
+symptoms2_Sour Throat,0.0
+symptoms2_Sore,0.0
+symptoms2_Sneezing,0.0
+symptoms2_Slim over the shell,0.0
+symptoms2_Sick,0.0
+symptoms2_Slightly Swollen,0.0
+symptoms2_Skin may thicken,0.0
+symptoms2_Skin colour change,0.0
+symptoms2_Skin Rashes,0.0
+symptoms2_Skin Lesion,0.0
+symptoms2_Signs in ewe,0.0
+symptoms2_Rapid Breathing,0.0
+symptoms2_Preening,0.0
+symptoms2_Pox lession on skin,0.0
+symptoms2_Loss of appetite,0.0
+symptoms2_Mild sneezing,0.0
+symptoms2_Malaise,0.0
+symptoms2_Lying on the side,0.0
+symptoms2_Lying Down,0.0
+symptoms2_Loss of earing,0.0
+symptoms2_Loss of consciousness,0.0
+symptoms2_Loss of Appetite,0.0
+symptoms2_Poor coat condition,0.0
+symptoms2_Loss of  appetite,0.0
+symptoms2_Lightheadedness ,0.0
+symptoms2_Lethargy,0.0
+symptoms2_Less Feather growth,0.0
+symptoms2_Less Eat,0.0
+symptoms2_Lesions on nose,0.0
+symptoms2_Mummification,0.0
+symptoms2_Muscle Loss,0.0
+symptoms2_Muscular Spasms,0.0
+symptoms2_Nasal discharge,0.0
+symptoms2_Nervousness,0.0
+symptoms2_Neurologic sign,0.0
+symptoms2_No appp,0.0
+symptoms2_Nosebleeds,0.0
+symptoms2_Nostrils,0.0
+symptoms2_Obstructed Lungs,0.0
+symptoms2_Oral lesion,0.0
+symptoms2_Painfull,0.0
+symptoms2_Pains to Walk,0.0
+symptoms2_Paresis,0.0
+symptoms2_Pawing at the face or nose,0.0
+symptoms2_Pneumonia ,0.0
+symptoms2_Poor appetite,0.0
+symptoms5_ pain and bloating,0.0

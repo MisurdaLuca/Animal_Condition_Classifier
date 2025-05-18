@@ -1,0 +1,811 @@
+fever -> fever
+ulcers -> ulcer
+facial swelling -> facial jut
+swelling on leg -> jut on leg
+short term lethargy -> dead term phlegm
+swollen lymph nodes -> vain lymph nod
+diarrhea with muscus -> diarrhea with muscus
+strong cough -> warm cough
+lesions in the nasal cavity -> wound in the nasal pit
+hair loss -> hair red
+greenish-yellow nasal discharge -> greenish-yellow nasal arc
+jaundice -> icterus
+poor coat apperence -> poor coat apperence
+watering -> water
+straining -> try
+upset stomach -> upset tum
+allergic reaction -> allergic response
+limping -> gimp
+bloody urine -> damn pee
+loss of eat -> red of eat
+dark or black face -> dark or dim font
+appetite varies -> appetite vary
+sickness -> nausea
+nasal bleeding -> nasal run
+shaking head -> rock mind
+attacks -> flak
+blood stool -> rip bm
+nasal discharge -> nasal arc
+polyuria -> polyuria
+exessive urination -> exessive urination
+convulsion -> fit
+wheezing -> wheeze
+lession on cat skin -> lession on ct pare
+lethargy -> phlegm
+skin irritation -> pare pique
+floopy muscle -> floopy brawn
+sensitivity to bright light -> sensitivity to smart weak
+tenderness -> heart
+scaly patches of skin -> scaly plot of pare
+fatty stool -> fat bm
+nausea -> nausea
+most often none -> near oft none
+discomfort -> soreness
+loss of appetite -> red of appetite
+rhinitis -> coryza
+immediate death -> quick end
+red on affected area -> red on move area
+watering diarrhea -> water diarrhea
+loss in weight -> red in angle
+egg production decreases -> egg yield fall
+abortion at the end of gestation -> abortion at the end of maternity
+swollen -> vain
+fluif faeces on blood and muscle -> fluif bm on rip and brawn
+severe -> hard
+normal appetite -> rule appetite
+inability to stand -> inability to bear
+excitability -> volatility
+animal gets uneasy -> brute go queasy
+sudden death -> sudden end
+small red bumps -> low red jut
+ring shaped lesion -> mob work wound
+bubbles in the mouth -> burp in the lip
+changes in outer layer skin -> vary in out bed pare
+red tinge -> red jot
+passing of undigested food -> go of undigested food
+smell -> odor
+loss of activity -> red of action
+bald patches -> bald plot
+poor condition -> poor term
+heavy infection -> big infection
+thicked skin -> thicked pare
+facial edema -> facial edema
+general malaise -> general unease
+oedema -> edema
+poor growth -> poor growth
+dullness -> dullness
+vomiting -> cat
+weakness -> failing
+partial paralysis -> fond palsy
+thick crusting -> deep crust
+constant pacing -> constant pace
+loss od appetite -> red od appetite
+indigestion -> dyspepsia
+blood in urine -> rip in pee
+sores on lip -> sore on lip
+abortion on late pregancy -> abortion on late pregancy
+paresis -> paresis
+abortion -> abortion
+runny nose -> runny pry
+decreased milk -> fall milk
+swelling of udder -> jut of bag
+emaciation -> boniness
+watering of eyes -> water of eye
+gastritis -> gastritis
+gas -> gun
+drooping ears -> sag ear
+edema -> edema
+drooping wings -> sag fly
+neck paralysis -> neck palsy
+dejection -> bm
+severe swellimg -> hard swellimg
+sneezing -> sneeze
+shallow breathing -> shoal emit
+dyspnea -> dyspnea
+mortality -> mortality
+skin rashes -> pare rash
+air sacculitis -> air sacculitis
+labored breathing -> tug emit
+blood from mouth -> rip from lip
+restlessness -> fidget
+stripped remiges -> loot remiges
+apathy -> apathy
+balance problem -> rest job
+difficulty in feeding -> trouble in run
+forthy eye -> forthy eye
+lack of walking -> lack of walk
+scabs on feet -> rat on ft
+enlarged thymus -> expand thymus
+fluffed feather -> muff plume
+heavy breathing -> big emit
+puffed_up feather -> puffed_up plume
+tail wagging -> can wag
+overweight -> heavy
+skin infection -> pare infection
+discharge from eyes -> arc from eye
+pale comb -> wan comb
+liquid dropping -> fluid fell
+undigested in their feces -> undigested in their bm
+sharp feather -> tart plume
+ruffled appearance -> mix show
+sinuses -> sinus
+feather loss -> plume red
+watery eyes -> weak eye
+bony lesion -> bony wound
+tremor of head and neck -> quake of mind and neck
+swollen belly -> vain belly
+signs in rams -> sign in jam
+spines -> spur
+discharge -> arc
+excess salivation -> extra salivation
+swelling -> jut
+head tilt -> mind tip
+decreased growth of bone -> fall growth of os
+swollen left abdomen -> vain odd belly
+cessation of eructation -> surcease of burp
+barren ewes -> free ewe
+tremor -> quake
+haemorrhage -> bleeding
+bloody diarhhea -> damn diarhhea
+reluctant move -> loth go
+poor wool -> poor wool
+poor immune function -> poor immune go
+abdominal pain -> ab ail
+fetopelvic dispropotion -> fetopelvic dispropotion
+watery diarrhea dispropotion -> weak diarrhea dispropotion
+severe kerititis -> hard kerititis
+foul smelling -> clog reek
+sheep often bites -> sheep oft bit
+pyrexia -> fever
+red skin -> red pare
+groosly enlarged -> groosly expand
+decreased eyelid -> fall lid
+inability to digest -> inability to bear
+respiratory distress -> respiratory hurt
+unsteady gait -> unfirm pace
+smell of ammonia -> odor of ammonia
+wandering -> roam
+tremors -> quake
+wool is clumped -> wool be clop
+swaying -> rock
+cell damage -> cell hurt
+formation of vesicles -> shaping of cyst
+skeleten abnormalities -> skeleten abnormalcy
+wether restless -> wether uneasy
+listless -> listless
+thivk skin -> thivk pare
+tear production -> rip yield
+skin color change -> pare tinge vary
+radip onset -> radip onset
+head shking -> mind shking
+inflammation -> rubor
+isolation from flock -> isolation from pot
+bluish white opacity -> blue white opacity
+head tossing -> mind sky
+coughing -> cough
+cough -> cough
+shortness of breath. -> curtness of breath.
+gasping -> pant
+excessive blood loss -> undue rip red
+nosebleed -> nosebleed
+bleeding from other parts of the body -> run from early role of the body
+bad breath -> bad hint
+extending its neck -> go it neck
+difficulty swallowing -> trouble bury
+eye redness -> eye red
+excessive eye watering -> undue eye water
+unable to urinate -> unable to pee
+extreme thirst -> utmost lust
+egg production stops -> egg yield end
+burning ache or pain -> cut yen or ail
+continuous loss of weight -> continuous red of angle
+sweating -> sweat
+outstretched neck -> outstretched neck
+weight loss -> angle red
+changed gait -> vary pace
+difficulty in breathing -> trouble in emit
+wasting -> rot
+feline infections -> felid infection
+eye discharges -> eye arc
+stop eating -> end eat
+diarrhea -> diarrhea
+difficulty breathing -> trouble emit
+bloody drool -> damn tosh
+difficulty walking -> trouble walk
+chronic eye inflamation -> chronic eye inflamation
+swelling of face or leg -> jut of font or leg
+inflammed eye -> inflammed eye
+lesions on nose -> wound on pry
+dandruff -> dandruff
+lack of pigmentation -> lack of pigmentation
+pneumonia -> pneumonia
+no appp -> no appp
+poor appetite -> poor appetite
+willnot run to jump -> willnot go to jump
+eye ulcer -> eye ulcer
+seizures -> ictus
+diffculty breathing -> diffculty emit
+fell unwell -> fly seedy
+diffulty chewing -> diffulty jaw
+lesions -> wound
+scartching ear -> scartching ear
+nosebleeds -> nosebleed
+change in gait -> vary in pace
+loss of consciousness -> red of awareness
+rapid breathing -> rapid emit
+dandruff in cat coat -> dandruff in ct coat
+speech delay -> words wait
+disharge from affected eye -> disharge from move eye
+erythema -> erythema
+sore -> mad
+swelling in the bite area -> jut in the bit area
+mild sneezing -> meek sneeze
+pox lession on skin -> pox lession on pare
+horny growth -> randy growth
+chills -> pall
+depression -> low
+stunted growth -> stunt growth
+thirst -> lust
+weakened legs -> cut leg
+fatigue -> fag
+distress -> hurt
+animal become lame -> brute go lame
+slightly swollen -> slimly vain
+dull -> dim
+heat -> rut
+nervousness -> nerves
+ulcer on gum -> ulcer on gum
+body stiffness -> body rigor
+trouble walking -> ail walk
+ataxia -> ataxy
+round patches -> turn plot
+swelling of eye -> jut of eye
+slim over the shell -> thin o'er the husk
+rough coat -> rocky coat
+enlarged lymph nodes -> expand lymph nod
+hair tining -> hair tin
+loss of earing -> red of earing
+hepatic failure -> hepatic loser
+muscle loss -> brawn red
+short stature -> dead height
+lacrimation -> tearing
+bloody diarrhea -> damn diarrhea
+uncharacteristic hiding -> uncharacteristic hide
+poor coat condition -> poor coat term
+stiffness -> rigor
+staggering as drunk -> reel a sot
+tiredness -> fatigue
+itchiness -> itch
+facial muscle twitching -> facial brawn nip
+abdminal pain -> abdminal ail
+malaise -> unease
+lack of coordination -> lack of coordination
+infection -> infection
+stillbirth -> stillbirth
+paralysis -> palsy
+hemolytic anemia -> hemolytic anemia
+mummification -> dry gangrene
+dark colored bloody -> dark dyed damn
+dysentery -> dysentery
+holding limbs off the ground -> keep arm hit the fag
+change in milk -> vary in milk
+wound lesion -> nose wound
+edema in lower jaw -> edema in low rag
+reduce growth -> cut growth
+redness of white of the eye -> red of white of the eye
+morbidity -> morbidity
+severe headache -> hard worry
+yellow or green dropping -> yellow or k fell
+hepatitis -> hepatitis
+epistaxis -> nosebleed
+unilateral nasal discharge -> one-sided nasal arc
+halitosis -> halitosis
+rhinorrhea -> rhinorrhea
+death -> end
+neurologic sign -> neurologic sign
+less feather growth -> less plume growth
+splenomegaly -> splenomegaly
+abdominal destention -> ab destention
+sour throat -> off throat
+preening -> plume
+torticollis -> wryneck
+lack of flying -> lack of fly
+small and yellow bumps -> low and yellow jut
+redness -> red
+obstructed lungs -> jam lung
+difficultty in breathing -> difficultty in emit
+yellow in beak -> yellow in neb
+less eat -> less eat
+secondary infection -> petty infection
+lame -> lame
+exhaustion -> exhaustion
+clubbed feather -> club plume
+swollen eyelids -> vain lid
+feather plucking -> plume rob
+eye closed -> eye shut
+blindness -> cecity
+succumb -> yield
+signs in ewe -> sign in ewe
+unusally thin -> unusally cut
+sudden abortion -> sudden abortion
+lameness -> gimp
+circling -> circle
+lying down -> lie low
+excession salivation -> excession salivation
+viability -> viability
+skin lesion -> pare wound
+straw colored -> husk dyed
+uteria inertia -> uteria inertia
+sick -> mad
+conjunctive -> conjunct
+testical pain -> testical ail
+fleece become thin -> rob go cut
+kick -> bang
+reduce reproductive potential -> cut generative likely
+oral lesion -> oral wound
+skin colour change -> pare tinge vary
+skin may thicken -> pare may thicken
+muscular spasms -> hefty spasm
+very cold skin -> real cold pare
+bottle jaw -> bottle rag
+foot hot -> ft hot
+warm -> warm
+twitching -> nip
+ulcer -> ulcer
+lying on the side -> lie on the side
+feels stiff -> feel wet
+behaviour change -> doings vary
+hot joints -> hot join
+nostrils -> nostril
+facial defects -> facial mar
+kicking -> boot
+pains to walk -> ail to walk
+crusty -> gruff
+anemia -> anemia
+wool loss -> wool red
+anversion to light -> anversion to weak
+stiff -> wet
+discharge from ear -> arc from ear
+redness of eye -> red of eye
+larynx -> larynx
+stealing -> slip
+difficulty in walking -> trouble in walk
+aversion to light -> aversion to weak
+panting -> gasp
+sneeze -> sneeze
+dizziness and fainting -> vertigo and conk
+trauma -> harm
+confusion -> mix-up
+pawing at the face or nose -> paw at the font or pry
+gasping for air -> pant for air
+decreased stool production -> fall bm yield
+frequent eye infections -> shop eye infection
+lightheadedness -> vertigo
+bloody discharge -> damn arc
+broody behavior -> musing doings
+regurgitation of food -> vomit of food
+mild colic -> meek colic
+high body temperaure -> high body temperaure
+dry or tacky gums -> wry or loud gum
+dull ness -> dim cape
+swelling problem -> jut job
+drinking polluted water -> tope foul pee
+stumbling -> hit
+high temperature -> high temperature
+stop drinking -> end tope
+diffulty swallowing -> diffulty bury
+foul breath -> clog hint
+thrist and urination -> thrist and urination
+weekness in the back legs -> weekness in the gage leg
+back pain -> gage ail
+reduce energy -> cut zip
+watery stool -> weak bm
+nose bleeds -> pry run
+darkened skin -> darken pare
+lession on the skin -> lession on the pare
+congestion -> congestion
+eye disharge -> eye disharge
+hydrophobia -> lyssa
+scabs -> rat
+blood in stool -> rip in bm
+black on ear -> dim on ear
+inflamed nostrils -> heat nostril
+chewing -> jaw
+red patches -> red plot
+intellectual disability -> noetic handicap
+dry or dull hair -> wry or dim hair
+enteritis -> enteritis
+blue colored lip -> low dyed lip
+skin reashes -> pare reashes
+wart-like growth -> wart-like growth
+skin ulcer -> pare ulcer
+swollen purple wattle -> vain regal lappet
+ruffled feathers -> mix plume
+los of the ability to walk -> los of the power to walk
+weak calves -> weak sura
+hot udder -> hot bag
+trembling -> shaky
+dribbling of saliva -> drop of spit
+blooody fluid -> blooody fluid
+stand with head droping -> bear with mind fell
+hind quarted soil -> back quarted soil
+blood on faces -> rip on font
+relunctance to move -> relunctance to go
+swelling may occur under jaw -> jut may hap under rag
+hardness -> rigor
+attack -> flak
+red eye -> red eye
+difficult in respiration -> hard in breathing
+severe colic -> hard colic
+kidney failure -> kidney loser
+septic arthritis -> septic arthritis
+aggressiveness -> pugnacity
+dry skin -> wry pare
+bad smell -> bad odor
+vitamin and minerals defiency -> vitamin and mineral defiency
+muscle weakness -> brawn failing
+headache -> worry
+skeleten pain -> skeleten ail
+swelling of neck -> jut of neck
+enlargement of bones -> blowup of os
+sweat -> stew
+infection of the skin -> infection of the pare
+self mutilation -> ego mutilation
+constipation -> deadening
+sores on lower leg and teats -> sore on low leg and pap
+retained placenda -> keep placenda
+hemoglobinuria -> hemoglobinuria
+incoordination -> incoordination
+mucous discharge -> mucose arc
+occular discharge -> occular arc
+excess salivary -> extra salivary
+kid moratality -> kid moratality
+wound -> nose
+swelling of eyelid -> jut of lid
+nervous -> spooky
+bloody -> damn
+swollen kidney -> vain kidney
+decreased appetite -> fall appetite
+abdominal discomfort -> ab soreness
+drooling -> drool
+purplish combs -> purple comb
+paralyzed leg -> paralyze leg
+slow growth -> dim growth
+high moratality -> high moratality
+gagging -> gag
+asymptomatic -> symptomless
+blue straws -> low husk
+dilation of duodenum -> dilation of duodenum
+ear infection -> ear infection
+tremors of the head -> quake of the mind
+roughened -> roughen
+trachea -> trachea
+yellow eye -> yellow eye
+swollen abdomen -> vain belly
+stress -> try
+retarded growth -> slow growth
+difficulty in swallowing -> trouble in bury
+loss of pigment -> red of paint
+kicking at the belly -> boot at the belly
+spread of infection -> gap of infection
+underdeveloped muscles -> developing brawn
+sweats -> stew
+dehydration -> drying up
+muscle twiching -> brawn twiching
+muscles ache -> brawn yen
+grunting -> grunt
+staggering -> reel
+abnormal conformation -> abnormal form
+poor conformation -> poor form
+swelling of head and neck -> jut of mind and neck
+flank -> wing
+bloody droping -> damn fell
+small intestines -> low gut
+corneal ulceration -> corneal ulcer
+itches -> rub
+dirty -> soil
+loss of wool -> red of wool
+rub -> rub
+rough hair coat -> rocky hair coat
+agalactia -> agalactia
+moist -> damp
+flabby -> soft
+gums -> gum
+colic -> colic
+pot belly -> pot belly
+strange behaviour -> unusual doings
+clearly unthrifty -> clear unthrifty
+relunctance to walk -> relunctance to walk
+facial paralysis -> facial palsy
+painfull to touch -> painfull to jot
+difficulty in rising -> trouble in wax
+abnormally long leg -> abnormally long leg
+sluggish -> slow
+scaly skin -> scaly pare
+muscle trembling -> brawn shaky
+swelling on jaw -> jut on rag
+nesting behaviour -> nest doings
+grinding of teeth -> fag of tooth
+tear produce -> rip get
+fast breathing -> fast emit
+facial swelling, -> facial swelling,
+droopy wings -> droopy fly
+chirping -> peep
+mild weakness -> meek failing
+blurry vision -> hazy sight
+gasping for breath -> pant for hint
+distended stomach -> dilate tum
+crusty eye lashes and matting of eyelashes -> gruff eye whip and mat of lash
+rapid heartbeats -> rapid beat
+loss of tail tone -> red of can note
+respiratory noise -> respiratory noise
+muscular stiffness -> hefty rigor
+lack of appetite -> lack of appetite
+reduced appetite -> cut appetite
+muscles problem -> brawn job
+diffuse -> soft
+bleeding from wounds -> run from hurt
+listlessness -> torpor
+difficulty breating -> trouble breating
+rapid pulse and heart rates -> rapid beat and sum rat
+swollen teats -> vain pap
+change their normal behaviour -> vary their rule doings
+excessive drooling -> undue drool
+tarry stool -> lurk bm
+unable to eat -> unable to eat
+broken bones -> go os
+rapid heart rate -> rapid sum rate
+flatulence -> gas
+eye and skin change -> eye and pare vary
+noisy breathing -> noisy emit
+crusting of the skin -> crust of the pare
+pain -> ail
+muscle pain -> brawn ail
+week legs -> week leg
+jaw is dropped -> rag be fell
+blood in faces -> rip in font
+lumps -> oaf
+stomach growling -> tum growl
+swallowing -> bury
+discharge from eye -> arc from eye
+walking problem -> walk job
+clouded cornea -> fog cornea
+cramps -> cramp
+salivation -> salivation
+firm -> fast
+limp -> gimp
+liver disease -> liver disease
+nasal -> nasal
+grinding teeth -> fag tooth
+ruffled coat -> mix coat
+swollen comb -> vain comb
+distinctive bumps -> typical jut
+closed eyes -> shut eye
+mammary glads -> mammary glad
+join pains -> sum ail
+milk getting out more watery -> milk go out more weak
+painfull swalling -> painfull swalling
+inability of swalllon feeding -> inability of swalllon run
+red diarrhea -> red diarrhea
+milky hard -> milky surd
+animal stop feed -> brute end run
+appetite -> appetite
+hyper sensitivity -> hyper sensitivity
+bite other animals -> bit early brute
+yellowish discharge -> yellow arc
+consistency of milk -> body of milk
+excessive production -> undue yield
+severe inflammation -> hard rubor
+inflammation of eye -> rubor of eye
+size of lesions vary -> size of wound vary
+easily damage shell -> easy hurt husk
+gas or bloating -> gun or bloat
+excess sleeping -> extra kip
+flaky -> gonzo
+progressive weakness -> liberal failing
+head ache -> mind yen
+white mark on the muscle -> white mug on the brawn
+acting aggressive -> do aggressive
+watery eye -> weak eye
+stomach cramps -> tum cramp
+lesion -> wound
+pulmonary congestion -> pulmonic congestion
+weak kids -> weak kid
+pox lesion -> pox wound
+reduce feed -> cut run
+tender to touch -> raw to jot
+mouth lesion -> lip wound
+difficult in walking -> hard in walk
+shivering -> throb
+cornea become cloudy -> cornea go mirky
+hematuria -> hematuria
+decresed egg production -> decresed egg yield
+wattles -> lappet
+anorexia -> anorexia
+retching -> gag
+urine retention -> pee memory
+defienciency in vitamin -> defienciency in vitamin
+cloacal pasting -> cloacal glue
+muscle aches -> brawn yen
+beak overgrowth -> neb giantism
+dry scabs -> wry rat
+thickening of skin -> knob of pare
+half-closed eye -> half-closed eye
+chest pain -> chest ail
+swolling of joint -> swolling of join
+loss of powder down -> red of powder low
+green dropping -> k fell
+itching -> rub
+exercise in tolerance -> do in margin
+urination -> urination
+semen examination -> cum exam
+enlarged skulls -> expand skull
+death of lamb -> end of lamb
+weak pulse -> weak beat
+hock joint -> soak join
+ulcerated muscle -> ulcerate brawn
+hairy fleeces -> hairy rob
+swelling on thebody -> jut on thebody
+rump -> can
+small size -> low size
+shock -> jar
+iris prolapse -> iris prolapse
+scratches -> rub
+stained wool -> sully wool
+nible at their wool -> nible at their wool
+loss of milk production -> red of milk yield
+raw -> raw
+edematous -> edematous
+lip -> lip
+reduce milk -> cut milk
+infected navels -> taint navel
+swelling on joints -> jut on join
+head pressing -> mind bid
+tears -> rip
+jerky limb movements -> jerk arm bm
+difficulty in walk -> trouble in walk
+scabs on lip -> rat on lip
+flat ribs -> mat guy
+attempt to urinate -> try to pee
+irritation -> pique
+odor to ear -> odor to ear
+profuse -> lush
+hoarseness -> huskiness
+urine infection -> pee infection
+pawing at bedding -> paw at bed
+bleeding wounds -> run hurt
+production of mucus -> yield of mucus
+twisted neck -> flex neck
+nose picking -> pry peck
+loss of alertness -> red of alerting
+foul smelling stools -> clog reek bm
+mucus discharge from the eye -> mucus arc from the eye
+fluffed feathers -> muff plume
+rectal bleeding -> rectal run
+inability to fly -> inability to fly
+experiencing changes in weight -> get vary in angle
+excessive food intake -> undue food inlet
+gurgling sound -> bubble go
+urine dribbling -> pee drop
+difficulty diagnosis -> trouble diagnosis
+frequent yawning -> shop yaw
+stomatitis -> stomatitis
+lameness in affected leg -> gimp in move leg
+high body temperature -> high body temperature
+pains -> ail
+blue eye -> low eye
+lossened teeth -> lossened tooth
+enlarged lymph nodes or swelling -> expand lymph nod or jut
+week pulse -> week beat
+vaginal discharge -> vaginal arc
+severe weekness and depression -> hard weekness and low
+swelling of joints -> jut of join
+neurologic abnormalities -> neurologic abnormalcy
+loss of appettite -> red of appettite
+unable to exercise -> unable to do
+joint pain -> join ail
+ulcerated skin -> ulcerate pare
+pain on face -> ail on font
+muscle stiffness -> brawn rigor
+anaemia -> anemia
+distended chest -> dilate chest
+pain on leg -> ail on leg
+pink eye -> tap eye
+arthritis -> arthritis
+shyness or aggression -> shyness or hostility
+pale gums -> wan gum
+skin issue -> pare cut
+raised growth or bump -> farm growth or jut
+bumps(black,grey or red) -> bumps(black,grey or red)
+black stool -> dim bm
+red and inflammation ear -> red and rubor ear
+periodic vommiting -> periodic vommiting
+lound breathing -> lound emit
+inability to jump -> inability to jump
+salivating -> drool
+effort to breath -> try to hint
+excessive grooming -> undue train
+eye movements -> eye bm
+rubbing eye -> rub eye
+decrease appetite -> fall appetite
+ocular discharge -> optic arc
+septicemia -> septicemia
+mortality varies -> mortality vary
+lesions on ear -> wound on ear
+swollen and painfull -> vain and painfull
+diarrhoea -> diarrhea
+inability to absorb nutrients -> inability to draw food
+fluif filled blisters -> fluif take whip
+swelling of internal organs -> jut of home organ
+milk getting out more thick -> milk go out more deep
+moist and painfull -> damp and painfull
+faeces are streake with blood -> bm be streake with rip
+abnormal behaviour -> abnormal doings
+papules appear on teats anad udder -> papule look on pap anad bag
+decrease in milk production -> fall in milk yield
+milk reduce -> milk cut
+drop in milk production -> dip in milk yield
+dry hair coat -> wry hair coat
+eye become dull -> eye go dim
+stamping and pedding of hind eye -> boss and pedding of back eye
+obscure lameness -> fog gimp
+respiratory infection -> respiratory infection
+flaking of the scutes -> peel of the scute
+folded ears -> fold ear
+eventually death -> finally end
+red lesion from bald patches -> red wound from bald plot
+abdonormal discomfort -> abdonormal soreness
+throat and ear pain -> throat and ear ail
+abdonormal pain -> abdonormal ail
+weigth bearing long bones -> weigth pay long os
+stopped eat -> end eat
+loss of vitamin e -> red of vitamin e
+acting unnaturally tame -> do unnaturally tame
+bleeding in eye and skin -> run in eye and pare
+terminal convulsion -> end fit
+weight gain -> angle hit
+wool production -> wool yield
+dizziness -> vertigo
+greenish diarrhea -> green diarrhea
+drop on egg production -> dip on egg yield
+pharyngitis -> raw throat
+shaking oh head -> rock oh mind
+shortness of breath -> curtness of hint
+abnormalities -> abnormalcy
+snoring -> snore
+sleeping excessively -> kip too
+vision problem -> sight job
+bloody in feather -> damn in plume
+misshapen beak -> deformed neb
+nervous issue -> spooky cut
+reduce lamp marking -> cut lamp pit
+blood poisioning -> rip poisioning
+extension of neck -> wing of neck
+ulcerated ear -> ulcerate ear
+flock moratality -> pot moratality
+carcass decomposes -> carcass rot
+poor body condition -> poor body term
+loss of eye -> red of eye
+tail shaking -> can rock
+scratching -> rub
+sloughing of the tail -> molt of the can
+sensitive to touch -> raw to jot
+blood clots -> rip clot
+good appetite -> full appetite
+increased in breathing -> increase in emit
+not eating -> non eat
+oxygen defiency -> o defiency
+blister -> whip
+redness on ear -> red on ear
+neck vein swelling -> neck vena jut
+dry air -> wry air
+bleeding from the nose -> run from the pry
+restless movement -> uneasy bm
+increased passing gas -> increase go gun
+lack of vocalizations -> lack of vox
+loss of wariness -> red of wariness
+pain and bloating -> ail and bloat
+undigested seeds -> undigested sow
+inability to rise -> inability to wax
+difficulty moving and eating -> trouble go and eat
+urination problem -> urination job
