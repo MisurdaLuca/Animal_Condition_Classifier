@@ -102,7 +102,7 @@ def process_symptoms_to_cluster_ids(symptoms, word_map):
         return None
 
 # ----- UI Components -----
-st.image("deployment/banner animal.png", use_column_width=800)
+st.image("deployment/banner animal.png", use_container_width=True)
 st.markdown("""
 <header>
     <h1 style="text-align: center; color: #34b32e;">VetAlert</h1>
