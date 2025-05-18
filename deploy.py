@@ -174,15 +174,17 @@ elif animal_group == "Reptile":
 
 st.markdown("""
     <style>
-    .streamlit-alert-success {
-        background-color: #28a745 !important;  /* zöld */
-        color: black !important;
+    /* Success box */
+    div[data-testid="stSuccess"] {
+        background-color: #28a745 !important;  /* zöld háttér */
+        color: balck !important;                /* fehér szöveg */
         font-weight: bold !important;
         padding: 10px !important;
         border-radius: 5px !important;
     }
-    .streamlit-alert-error {
-        background-color: #dc3545 !important;  /* piros */
+    /* Error box */
+    div[data-testid="stError"] {
+        background-color: #dc3545 !important;  /* piros háttér */
         color: balck !important;
         font-weight: bold !important;
         padding: 10px !important;
@@ -190,6 +192,7 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
 
 # Symptoms Input
 st.subheader("Symptoms")
