@@ -1,7 +1,6 @@
 /* Main app background and text */
 .stApp {  
-    background-color: #f4fff4;  /* világos zöld háttér */
-    color: #002b00;  
+      /* világos zöld háttér */
     padding: 10px;
     font-family: 'Segoe UI', sans-serif;
 }
