@@ -172,6 +172,24 @@ elif animal_group == "Reptile":
     animal_order = st.selectbox("Reptile Type", ["Select...", "Turtle", "Snake"])
     animal_breed = "Unknown"
 
+st.markdown("""
+    <style>
+    .streamlit-alert-success {
+        background-color: #28a745 !important;  /* zöld */
+        color: black !important;
+        font-weight: bold !important;
+        padding: 10px !important;
+        border-radius: 5px !important;
+    }
+    .streamlit-alert-error {
+        background-color: #dc3545 !important;  /* piros */
+        color: balck !important;
+        font-weight: bold !important;
+        padding: 10px !important;
+        border-radius: 5px !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 # Symptoms Input
 st.subheader("Symptoms")

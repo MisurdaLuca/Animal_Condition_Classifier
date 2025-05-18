@@ -134,7 +134,7 @@ h1 {
 }
 
 /* Success üzenet */
-.stsuccess {
+.stSuccess {
     background-color: #0c0c0c;
     border-left: 6px solid #4caf50;
     padding: 15px;
