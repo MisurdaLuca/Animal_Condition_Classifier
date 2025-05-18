@@ -20,7 +20,6 @@ local_css("deployment/style.css")  # vagy "styles/style.css" ha almappában van
 def apply_inline_styles():
     css = """
     body {
-        background-color: #f0f0f0;
         font-color: #ffffff;
     }
     .stButton>button {
