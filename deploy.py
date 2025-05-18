@@ -175,15 +175,17 @@ st.markdown("""
     <style>
     .stButton > button {
         background-color: #18291e;
-        color: black;
+        color: #00ff5b;
         font-weight: bold;
         border-radius: 10px;
         padding: 0.5em 1em;
+        border: 3px solid #00ff5b;
     }
     .stButton > button:hover {
         background-color: #18291e;
-        color: black;
+        color: #00ff5b;
         font-weight: bold;
+        border: 3px solid #00ff5b;
     }
     </style>
 """, unsafe_allow_html=True)
