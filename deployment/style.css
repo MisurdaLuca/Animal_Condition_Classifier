@@ -100,21 +100,6 @@ h1 {
     margin-bottom: 1px;
 }
 
-/* Buttons */
-.stButton button {
-    background-color: #4caf50;
-    color: white;
-    border-radius: 8px;
-    padding: 10px 24px;
-    font-size: 16px;
-    border: none;
-    transition: background-color 0.3s ease;
-}
-.stButton button:hover {
-    background-color: #388e3c;
-    color: #eaffea;
-}
-
 /* Success üzenet */
 .stSuccess {
     background-color: #0c0c0c;
