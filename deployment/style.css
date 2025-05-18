@@ -22,14 +22,14 @@
 
 /* Minden label vagy szöveg, ami .stTextInput vagy .stSelectbox előtt van */
 label {
-    color: #2ecc71 !important; /* élénk zöld 💚 */
+    color: #0000 !important; /* élénk zöld 💚 */
     font-weight: bold;
     font-size: 25px !important; 
 }
 
 /* Alternatíva: az összes form-label stílusolása */
 div[data-baseweb="form-control"] > label {
-    color: #2ecc71 !important; /* ugyanaz a zöld */
+    color: #0000 !important; /* ugyanaz a zöld */
     font-size: 25px !important;
     font-weight: bold !important;
 }
