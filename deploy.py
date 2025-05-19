@@ -122,16 +122,16 @@ def check_symptoms_match(symptoms, word_map, threshold=0.75):
 # ----- UI Components -----
 st.image("deployment/banner animal.png", use_container_width=True)
 st.markdown("""
-<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px;">
-    <h1 style="text-align: center; color: white;">VetAlert</h1>
-    <h3 style="text-align: center; color: white;">Your AI-Powered Animal Condition Classification Tool</h3>
+<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px; background-color: #00ff5b;">
+    <h1 style="text-align: center; color: #0e1711;">VetAlert</h1>
+    <h3 style="text-align: center; color: #0e1711;">Your AI-Powered Animal Condition Classification Tool</h3>
 </header>
 
 <div style="padding-top: 20px;"></div>
 
-<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px; background-color: black;">
+<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px; background-color: #0e1711;">
     <h5 style="text-align: center; color: #00ff5b;">This is a web-based tool designed to assist in identifying potential health conditions in animals using basic animal information and observed symptoms.</h5>
-    <h5 style="text-align: center; color: #00ff5b;"><i>Please note that this tool is not a substitute for professional veterinary advice. Always consult a veterinarian for accurate diagnosis and treatment.</i></h5>
+    <h5 style="text-align: center; color: white;"><i>Please note that this tool is not a substitute for professional veterinary advice. Always consult a veterinarian for accurate diagnosis and treatment.</i></h5>
 </header>
 
 """, unsafe_allow_html=True)
