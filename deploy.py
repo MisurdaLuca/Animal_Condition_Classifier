@@ -129,10 +129,11 @@ st.markdown("""
 
 <div style="padding-top: 20px;"></div>
 
-<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px;">
+<header style="border: 3px solid #00ff5b; padding: 15px; border-radius: 10px; background-color: black;">
     <h5 style="text-align: center; color: #00ff5b;">This is a web-based tool designed to assist in identifying potential health conditions in animals using basic animal information and observed symptoms.</h5>
     <h5 style="text-align: center; color: #00ff5b;"><i>Please note that this tool is not a substitute for professional veterinary advice. Always consult a veterinarian for accurate diagnosis and treatment.</i></h5>
 </header>
+
 """, unsafe_allow_html=True)
 
 st.markdown("""
