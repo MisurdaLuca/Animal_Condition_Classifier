@@ -60,9 +60,10 @@ def load_mapping():
 def load_models():
     linear = joblib.load("deployment/svmlinear_model.pkl")
     rbf = joblib.load("deployment/svmrbf_model.pkl")
-    return linear, rbf
+    xgb = joblib.load("deployment/xgb_model.pkl")
+    return linear, rbf, xgb
 
-linear_model, rbf_model = load_models()
+linear_model, rbf_model, xgb_model = load_models()
 
 @st.cache_data
 def load_label_encodings():
@@ -240,11 +241,14 @@ if st.button("Diagnose"):
                     try:
                         proba_linear = linear_model.predict_proba([model_input])[0]
                         proba_rbf = rbf_model.predict_proba([model_input])[0]
+                        proba_xgboost = xgb_model.predict_proba([model_input])[0]
+                        prediction = xgb_model.predict([model_input])[0]
+                        confidence = proba_xgboost[prediction] * 100
 
-                        avg_proba = (proba_linear + proba_rbf) / 2
-                        prediction = np.argmax(avg_proba)
-                        confidence = avg_proba[prediction] * 100
-
+                        #avg_proba = (proba_linear + proba_rbf) / 2
+                        #prediction = np.argmax(avg_proba)
+                        #confidence = avg_proba[prediction] * 100
+                        
                         if prediction == 1:
                             st.error(f"⚠️☠️🚨Dangerous condition      Confidence: {confidence:.2f}%")
                             if confidence > 90:
