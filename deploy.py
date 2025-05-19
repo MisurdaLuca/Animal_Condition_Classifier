@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 import numpy as np
 from difflib import SequenceMatcher
+from collections import Counter
 
 # ----- Page Configuration -----
 st.set_page_config(
@@ -60,10 +61,10 @@ def load_mapping():
 def load_models():
     linear = joblib.load("deployment/svmlinear_model.pkl")
     rbf = joblib.load("deployment/svmrbf_model.pkl")
-    xgb = joblib.load("deployment/xgb_model.pkl")
-    return linear, rbf, xgb
+    knn = joblib.load("deployment/knn_model.pkl")
+    return linear, rbf, knn
 
-linear_model, rbf_model, xgb_model = load_models()
+linear_model, rbf_model, knn_model = load_models()
 
 @st.cache_data
 def load_label_encodings():
@@ -239,15 +240,26 @@ if st.button("Diagnose"):
                 else:
                     model_input = [enc_animal, enc_group, enc_species] + cluster_ids
                     try:
+                        model_input = [enc_animal, enc_group, enc_species] + cluster_ids
+    
                         proba_linear = linear_model.predict_proba([model_input])[0]
                         proba_rbf = rbf_model.predict_proba([model_input])[0]
-                        #proba_xgboost = xgb_model.predict_proba([model_input])[0]
-                        #prediction = xgb_model.predict([model_input])[0]
-                        #confidence = proba_xgboost[prediction] * 100
-
-                        avg_proba = (proba_linear + proba_rbf) / 2
-                        prediction = np.argmax(avg_proba)
-                        confidence = avg_proba[prediction] * 100
+                        proba_knn = knn_model.predict_proba([model_input])[0]
+                        
+                        pred_linear = np.argmax(proba_linear)
+                        pred_rbf = np.argmax(proba_rbf)
+                        pred_knn = np.argmax(proba_knn)
+                        
+                        weights = {'linear': 0.4, 'rbf': 0.3, 'knn': 0.3}
+                        vote_counts = Counter()
+                        vote_counts[pred_linear] += weights['linear']
+                        vote_counts[pred_rbf] += weights['rbf']
+                        vote_counts[pred_knn] += weights['knn']
+                        
+                        prediction = max(vote_counts.items(), key=lambda x: (x[1], x[0] == pred_linear))[0]
+                        
+                        avg_proba = (proba_linear[prediction] + proba_rbf[prediction] + proba_knn[prediction]) / 3
+                        confidence = avg_proba * 100
                         
                         if prediction == 1:
                             st.error(f"⚠️☠️🚨Dangerous condition      Confidence: {confidence:.2f}%")
@@ -277,4 +289,3 @@ if st.button("Diagnose"):
                             st.info(f"😵‍💫Insecure condition        Confidence: {confidence:.2f}%")
                     except Exception as e:
                         st.error(f"Prediction failed: {str(e)}")
-
