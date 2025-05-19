@@ -126,6 +126,7 @@ st.markdown("""
     <h1 style="text-align: center; color: ##1a6116;">VetAlert</h1>
     <h3 style="text-align: center; color: ##1f6e1b;">Your AI-Powered Animal Condition Classification Tool</h3>
 </header>
+<div style="padding-top: 20px;"></div>
 <header>
     <h5 style="text-align: center; color: ##1f6e1b;">This is a web-based tool designed to assist in identifying potential health conditions in animals using basic animal information and observed symptoms.</h5>
     <h5 style="text-align: center; color: ##1f6e1b;"><i>Please note that this tool is not a substitute for professional veterinary advice. Always consult a veterinarian for accurate diagnosis and treatment.</i></h5>
