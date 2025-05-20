@@ -5,3 +5,5 @@ pandas
 nltk
 numpy
 opencv-python
+torch
+sentence-transformers
