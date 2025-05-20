@@ -2,5 +2,6 @@ streamlit
 joblib
 scikit-learn
 pandas
+nltk
 numpy
 opencv-python
