@@ -209,7 +209,9 @@ st.markdown("""
 
 # Symptoms Input
 st.subheader("Symptoms")
-st.subheader('Start with the most severe symptom and proceed to the least severe one.')
+st.markdown("""
+            <h1 style="text-align: center; color: #0e1711;">Start with the most severe symptom and proceed to the least severe one.</h1>
+            """)
 symptoms = [st.text_input(f"Symptom {i+1}", placeholder="Enter symptom here") for i in range(5)]
 
 if st.button("Diagnose"):
