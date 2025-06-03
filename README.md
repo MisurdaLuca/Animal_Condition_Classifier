@@ -1,38 +1,32 @@
 ![Logo](https://uni-obuda.hu/wp-content/uploads/2021/11/kep3.jpg)
 # 🐾 Animal Condition Classifier – AI for Animal Risk Assessment
 
-**Status:** Finished
-**University Project** – Óbuda University, BSc in Computer Engineering  
-**Subject:** Machine Learning / AI specialization
+## 👋🏼 Welcome to my project work!
 
-## 📘 Overview
+This repository is part of a semester-long assignment for the **Machine Learning** course at the **University of Óbuda**, within the **Artificial Intelligence specialization**.
 
-This project focuses on developing a deep learning model that can classify animals based on visual risk categories: **dangerous** or **non-dangerous**.
-
-The goal is to demonstrate how artificial intelligence and computer vision can assist in **automatic safety assessments**, potentially for surveillance, wildlife monitoring, or security systems.
-
-The system uses convolutional neural networks (CNNs) to process images and assign them to one of two classes.
-
-## 🧠 Technologies Used
-
-- **Python** – primary programming language  
-- **TensorFlow / Keras** – deep learning framework  
-- **OpenCV** – image preprocessing and augmentation  
-- **Matplotlib**, **Seaborn** – visualization of metrics  
-- **Scikit-learn** – classification evaluation (accuracy, confusion matrix, etc.)
-
-## 🎓 Educational Context
-
-This project was developed as part of the **AI specialization** in the **Computer Engineering BSc program** at **Óbuda University**, under the course focusing on deep learning and image classification.
-
-It demonstrates practical application of CNNs to binary classification problems in safety-critical domains.
+The project consisted of an Ai model that classifies 5 animal disease symptoms into two categories (dangerous or non-dangerous).<br>The task was particularly challenging as it required significant data cleaning.
 
 ## 📂 Dataset
 
 This project uses the publicly available **Animal Disease Dataset** from Kaggle:  
 [https://www.kaggle.com/datasets/gracehephzibahm/animal-disease](https://www.kaggle.com/datasets/gracehephzibahm/animal-disease)
 
-> ⚠️ Note: The dataset is **not included** in this repository due to size and licensing.  
-> You can download it from Kaggle and prepare it according to the expected folder structure.
+## 🧰 Technologies Used
 
-Expected folder structure after download and extraction:
+- **Python** – primary programming language  
+- **Streamlit** - deploy
+- **Matplotlib**, **Seaborn** – visualization of metrics  
+- **Scikit-learn** – classification evaluation (accuracy, confusion matrix, etc.)
+- **NLTK** (WordNet) – synonym detection and semantic filtering
+- **Sentence Transformers** – embedding-based similarity for synonym elimination
+
+## 🎓Author
+
+[@MisurdaLuca](https://github.com/MisurdaLuca)
+
+University of Óbuda – Artificial Intelligence specialization
+
+### 📃 License
+This project is intended for **educational** and **research** purposes only.
+
