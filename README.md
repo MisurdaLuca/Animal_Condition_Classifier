@@ -4,6 +4,8 @@
 
 # 🐾 Animal Condition Classifier – AI for Animal Risk Assessment
 
+## Status: Finsihed
+
 ## 👋🏼 Welcome to my project work!
 
 This repository is part of a semester-long assignment for the **Machine Learning** course at the **University of Óbuda**, within the **Artificial Intelligence specialization**.
@@ -23,6 +25,7 @@ This project uses the publicly available **Animal Disease Dataset** from Kaggle:
 - **Scikit-learn** – classification evaluation (accuracy, confusion matrix, etc.)
 - **NLTK** (WordNet) – synonym detection and semantic filtering
 - **Sentence Transformers** – embedding-based similarity for synonym elimination
+- **Streamlit** - deploy
 
 ## 🎓Author
 
